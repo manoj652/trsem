@@ -1,0 +1,5401 @@
+The Tempest
+
+1
+
+THE TEMPEST,
+OR THE
+
+E n c h a n t e d I s l a n d.
+A COMEDY.
+
+PREFACE TO THE ENCHANTED ISLAND.
+The writing of Prefaces to Plays was probably invented by some very
+ambitious Poet, who never thought he had done enough: Perhaps by some
+Ape of the French Eloquence, which uses to make a business of a Letter of
+gallantry, an examen of a Farce; and in short, a great pomp and ostentation
+of words on every trifle. This is certainly the talent of that Nation, and
+ought not to be invaded by any other. They do that out of gayety which
+would be an imposition upon us.
+We may satisfie our selves with surmounting them in the Scene, and
+safely leave them those trappings of writing, and flourishes of the Pen, with
+which they adorn the borders of their Plays, and which are indeed no more
+than good Landskips to a very indifferent Picture. I must proceed no farther
+in this argument, lest I run my self beyond my excuse for writing this. Give
+me leave therefore to tell you, Reader, that I do it not to set a value on any
+thing I have written in this Play, but out of gratitude to the memory of Sir
+William Davenant, who did me the honour to joyn me with him in the
+alteration of it.
+It was originally Shakespear’s: a Poet for whom he had particularly a
+high veneration, and whom he first taught me to admire. The Play it self
+had formerly been acted with success in the Black-Fryers: and our excellent
+Fletcher had so great a value for it, that he thought fit to make use of the
+same Design, not much varied, a second time. Those who have seen his SeaVoyage, may easily discern that it was a Copy of Shakespear’s Tempest: the
+Storm, the desart Island, and the Woman who had never seen a Man, are
+all sufficient testimonies of it. But Fletcher was not the only Poet who made
+use of Shakespear’s Plot: Sir John Suckling, a profess’d admirer of our
+Author, has follow’d his footsteps in his Goblins; his Regmella being an
+open imitation of Shakespear’s Miranda; and his Spirits, though
+counterfeit, yet are copied from Ariel. But Sir William Davenant, as he was
+a man of quick and piercing imagination, soon sound that somewhat might
+be added to the Design of Shakespear, of which neither Fletcher nor
+Suckling had ever thought: and therefore to put the last hand to it, he
+design’d the Counterpart to Shakespear’s Plot, namely that of a Man who
+had never seen a Woman; that by this means those two Characters of
+Innocence and Love might the more illustrate and commend each other.
+
+2
+
+Dryden and Davenant
+
+The Tempest
+
+This excellent contrivance he was pleas’d to communicate to me, and to
+desire my assistance in it. I confess that from the very first moment it so
+pleas’d me, that I never writ any thing with more delight. I must likewise do
+him that justice to acknowledge, that my writing received daily his
+amendments, and that is the reason why it is not so faulty, as the rest which
+I have done without the help or correction of so judicious a friend. The
+Comical parts of the Saylors were also his invention, and for the most part
+his writing, as you will easily discover by the style. In the time I writ with
+him I had the opportunity to observe somewhat more neerly of him than I
+had formerly done, when I had only a bare acquaintance with him: I found
+him then of so quick a fancy, that nothing was propos’d to him, on which
+he could not suddenly produce a thought extreamly pleasant and
+surprizing: and those first thoughts of his, contrary to the old Latine
+Proverb, were not alwaies the least happy. And as his fancy was quick, so
+likewise were the products of it remote and new. He borrowed not of any
+other; and his imaginations were such as could not easily enter into any
+other man. His corrections were sober and judicious: and he corrected his
+own writings much more severely than those of another man, bestowing
+twice the time and labour in polishing which he us’d in invention. It had
+perhaps been easie enough for me to have arrogated more to my self than
+was my due in the writing of this Play, and to have pass’d by his name with
+silence in the publication of it, with the same ingratitude which others have
+us’d to him, whose Writings he hath not only corrected, as he has done this,
+but has had a greater inspection over them, and sometimes added whole
+Scenes together, which may as easily be distinguish’d from the rest, as true
+Gold from counterfeit by the weight. But besides the unworthiness of the
+action which deterred me from it (there being nothing so base as to rob the
+dead of his reputation) I am satisfi’d I could never have receiv’d so much
+honour in being thought the Author of any Poem how excellent soever, as
+I shall from the joining my imperfections with the merit and name of
+Shakespear and Sir William Davenant.
+
+Prologue to the Tempest, or the Enchanted Island.
+
+Decemb. 1.
+1669.
+JOHN DRIDEN.
+
+As when a Tree’s cut down the secret root
+Lives under ground, and thence new Branches shoot
+So, from old Shakespear’s honour’d dust, this day
+Springs up and buds a new reviving Play.
+Shakespear, who (taught by none) did first impart
+To Fletcher Wit, to labouring Johnson Art.
+He, Monarch-like, gave those his subjects law,
+And is that Nature which they paint and draw.
+Fletcher reach’d that which on his heights did grow,
+Whilst Johnson crept and gather’d all below.
+This did his Love, and this his Mirth digest:
+One imitates him most, the other best.
+If they have since out-writ all other men,
+’Tis with the drops which fell from Shakespear’s Pen.
+The Storm which vanish’d on the Neighb’ring shore,
+Was taught by Shakespear’s Tempest first to roar.
+That innocence and beauty which did smile
+In Fletcher, grew on this Enchanted Isle.
+But Shakespear’s Magick could not copy’d be,
+Within that Circle none durst walk but he.
+I must confess ’twas bold, nor would you now,
+That liberty to vulgar Wits allow,
+Which works by Magick supernatural things:
+But Shakespear’s pow’r is sacred as a King’s.
+Those Legends from old Priest-hood were receiv’d,
+And he then writ, as people then believ’d.
+But, if for Shakespear we your grace implore,
+We for our Theatre shall want it more:
+Who by our dearth of Youths are forc’d t’employ
+One of our Women to present a Boy.
+And that’s a transformation you will say
+Exceeding all the Magick in the Play.
+Let none expect in the last Act to find,
+Her Sex transform’d from man to Woman-kind.
+What e’re she was before the Play began,
+All you shall see of her is perfect man.
+Or if your fancy will be farther led,
+To find her Woman, it must be abed.
+
+3
+
+4
+
+Dryden and Davenant
+
+The Tempest
+
+5
+
+Dramatis Personæ.
+Alonzo Duke of Savoy, and Usurper of the Dukedom of Mantua.
+Ferdinand his Son.
+Prospero tight Duke of Millain.
+Antonio his Brother, Usurper of the Dukedom.
+Gonzalo a Noble man of Savoy.
+Hippolito, one that never saw Woman, right Heir of the Dukedom of
+Mantua.
+Stephano Master of the Ship.
+Mustacho his Mate.
+Trincalo Boatswain.
+Ventoso a Mariner.
+Several Mariners.
+A Cabbin-Boy.
+Miranda (Daughter to Prospero) that never saw man.
+Dorinda (Daughter to Prospero) that never saw man.
+Ariel an aiery Spirit, attendant on Prospero.
+Several Spirits Guards to Prospero.
+Caliban Monster of the Isle.
+Sycorax his Sister Monster of the Isle.
+
+STEPHANO
+Ill weather! let’s off to Sea.
+MUSTACHO
+Let’s have Sea-room enough, and then let it blow the
+Devils head off.
+STEPHANO
+Boy!
+
+[Enter Cabin-boy.
+
+BOY
+Yaw, yaw, here Master.
+STEPHANO
+Give the Pilot a dram of the Bottle.
+
+[Exeunt Stephano and Boy.
+
+Enter Mariners and pass over the Stage.
+TRINCALO
+Heigh, my hearts, chearly, chearly, my hearts, yare, yare.
+Enter Alonzo, Antonio, Gonzalo.
+
+ACT I.
+ALONZO
+Good Bosen have a care; where’s the Master?
+Play the men.
+
+Enter Mustacho and Ventoso.
+VENTOSO
+What a Sea comes in?
+MUSTACHO
+A hoaming Sea! we shall have foul weather.
+TRINCALO
+The Scud comes against the Wind, ’twill blow hard.
+Enter Stephano.
+STEPHANO
+Bosen!
+TRINCALO
+Here, Master what cheer?
+
+TRINCALO
+Pray keep below.
+[Enter Trincalo.
+
+ANTONIO
+Where’s the Master, Bosen?
+TRINCALO
+Do you not hear him? you mar our labour: keep your
+Cabins, you help the storm.
+GONZALO
+Nay, good friend be patient.
+TRINCALO
+I, when the Sea is hence; what care these roarers for the name of Duke? to
+
+6
+
+Dryden and Davenant
+
+The Tempest
+
+Cabin; silence; trouble us not.
+
+Quarter-Master, get’s more Nippers.
+
+GONZALO
+Good friend, remember whom thou hast aboard.
+
+GONZALO
+I have great comfort from this Fellow; methinks his complexion is perfect
+Gallows; stand fast, good fate, to his hanging; make the Rope of his destiny
+our Cable, for our own does little advantage us; if he be not born to be
+hang’d we shall be drown’d.
+[Exit.
+
+TRINCALO
+Turn out, turn out all hands to Capstorm?
+You dogs, is this a time to sleep?
+Heave together Lads.
+[Trincalo whistles.
+[Exeunt Mustacho and Ventoso.
+MUSTACHO WITHIN
+Our Vall’s broke.
+VENTOSO WITHIN .
+but our Vial-block has given way. Come heave Lads! we are fix’d again.
+Heave together Bullyes.
+
+Enter Trincalo and Stephano.
+
+Enter Stephano.
+
+TRINCALO
+Up aloft Lads. Come, reef both Top-sails.
+
+STEPHANO
+Cut off the Hamocks! cut off the Hamocks, come my
+Lads: Come Bullys, chear up! heave lustily.
+The Anchor’s a peek.
+[Ex. Stephano.
+
+Enter two Mariners and pass over the Stage.
+TRINCALO
+Hands down! man your main-Capstorm.
+Enter Mustacho and Ventoso at the other door.
+MUSTACHO
+Up aloft! and man your seere-Capstorm.
+VENTOSO
+My Lads, my hearts of Gold, get in your Capstorm-Bar.
+Hoa up, hoa up, &c.
+[Exeunt Mustacho and Ventoso.
+Enter Stephano.
+STEPHANO
+Hold on well! hold on well! nip well there,
+
+[Exit Stephano.
+
+Enter two Mariners and pass over again.
+
+TRINCALO
+None that I love more than my self: you are a Counsellour, if you can advise
+these Elements to silence: use your [25] wisdom: if you cannot, make your
+self ready in the Cabin for the ill hour. Cheerly good hearts! out of our way,
+Sirs.
+[Exeunt Trincalo and Mariners.
+
+STEPHANO
+Let’s weigh, Let’s weigh, and off to Sea.
+
+7
+
+TRINCALO
+Is the Anchor a peek?
+STEPHANO
+[50] Is a weigh? Is a weigh!
+TRINCALO
+Up aloft my Lads upon the Fore-Castle!
+Cut the Anchor, cut him.
+ALL WITHIN
+Haul Catt, Haul Catt, &c. Haul Catt, haul:
+haul, Catt, haul. Below.
+STEPHANO
+Aft, Aft! and loose the Misen!
+TRINCALO
+Get the Misen-tack aboard. Haul Aft Misen-sheat!
+
+8
+
+Dryden and Davenant
+
+The Tempest
+
+Enter Mustacho.
+
+TRINCALO
+A curse upon this howling,
+[A great cry within.
+They are louder than the weather.
+[Enter Antonio and Gonzalo.
+Yet again, what do you here! shall we give o’re, and drown? [75] ha’ you a
+mind to sink?
+
+MUSTACHO
+Loose the main Top-sail!
+STEPHANO
+Furle him again, there’s too much Wind.
+
+GONZALO
+A Pox o’ your throat, you bawling, blasphemous, uncharitable dog.
+
+TRINCALO
+Loose Fore-sail! Haul Aft both sheats! trim her right afore the Wind. Aft!
+Aft! Lads, and hale up the Misen here.
+MUSTACHO
+A Mackrel-Gale, Master.
+
+TRINCALO
+Work you then.
+ANTONIO
+Hang, Cur, hang, you whorson insolent noise-maker, we are less afraid to
+be drown’d than thou art.
+
+STEPHANO WITHIN
+Port hard, port! the Wind grows scant, bring the Tack aboard Port is. Starboard, star-board, a little steady; now steady, keep her thus, no neerer you
+cannot come.
+
+VENTOSO
+Some hands down: the Guns are loose.
+TRINCALO
+Try the Pump, try the Pump!
+
+TRINCALO
+Brace off the Fore-yard.
+
+[Exit.
+
+GONZALO
+I’le warrant him for drowning, though the Ship were no stronger than a
+Nut-shell, and as leaky as an unstanch’d Wench.
+
+Enter Ventoso.
+
+[Ex. Must.
+
+[Exit Ventoso.
+
+Enter Mustacho at the other door.
+
+Enter Alonzo and Ferdinand.
+FERDINAND
+For my self I care not, but your loss brings a thousand Deaths to me.
+ALONZO
+O name not me, I am grown old, my Son; I now am tedious to the world,
+and that, by use, is so to me: but, Ferdinand, I grieve my subjects loss in
+thee: Alas! I suffer justly for my crimes, but why thou shouldest—O Heaven!
+[A cry within.
+Heark, farewel my Son! a long farewel!
+
+MUSTACHO
+O Master! six foot Water in Hold.
+STEPHANO
+Clap the Helm hard aboard! Flat, flat, flat in the Fore-sheat there.
+
+FERDINAND
+Some lucky Plank, when we are lost by shipwrack, waft hither, and submit
+it self beneath you.
+Your blessing, and I dye contented.
+[Embrace and Exeunt.
+
+TRINCALO
+Over-haul your fore-boling.
+STEPHANO
+Brace in the Lar-board.
+
+9
+
+[Exit.
+
+Enter Trincalo, Mustacho, and Ventoso.
+
+10
+
+Dryden and Davenant
+
+The Tempest
+
+TRINCALO
+What must our mouths be cold then?
+
+STEPHANO
+he strikes, she strikes! All shift for themselves.
+
+VENTOSO
+All’s lost. To prayers, to prayers.
+
+PROSPERO
+Miranda! where’s your Sister?
+MIRANDA
+I left her looking from the pointed Rock, at the walk end, on the huge beat
+of Waters.
+
+MUSTACHO
+Nay, we may e’ne pray too; our case is now alike.
+ANTONIO
+We are meerly cheated of our lives by Drunkards.
+[100] This wide chopt Rascal: would thou might’st lye drowning
+The long washing of ten Tides.
+[Exeunt Trincalo, Mustacho, and Ventoso.
+GONZALO
+He’ll he hang’d yet, though every drop of water swears against it; now
+would I give ten thousand Furlongs of Sea for one Acre of barren ground,
+Long-heath, Broom-furs, or any thing. The wills above be done, but I would
+fain dye a dry death.
+[A confused noise within.
+ANTONIO
+Mercy upon us! we split, we split.
+
+PROSPERO
+It is a dreadful object.
+MIRANDA
+If by your Art, my dearest Father, you have put them in this roar, allay ’em
+quickly.
+Had I been any God of power, I would have sunk the Sea into the Earth,
+before it should the Vessel so have swallowed.
+PROSPERO
+Collect your self, and tell your piteous heart,
+There’s no harm done.
+MIRANDA
+O woe the day!
+
+[Exeunt.
+
+Enter Stephano, Trincalo.
+TRINCALO
+The Ship is sinking.
+
+[Exeunt.
+
+Enter Prospero and Miranda.
+
+GONZALO
+The Duke and Prince are gone within to prayers.
+Let’s assist them.
+
+GONZALO
+Let’s all sink with the Duke, and the young Prince.
+
+11
+
+[A new cry within.
+
+STEPHANO
+Run her ashore!
+TRINCALO
+Lusse! lusse! or we are all lost! there’s a Rock upon the Star-board Bow.
+
+PROSPERO
+[125] There is no harm:
+I have done nothing but in care of thee,
+My Daughter, and thy pretty Sister:
+You both are ignorant of what you are,
+Not knowing whence I am, nor that I’m more
+Than Prospero, Master of a narrow Cell,
+And thy unhappy Father.
+MIRANDA
+I ne’re indeavour’d to know more than you were pleas’d to tell me.
+PROSPERO
+I should inform thee farther: wipe thou thine Eyes, have comfort; the
+direful spectacle of the wrack, which touch’d the very virtue of compassion
+
+12
+
+Dryden and Davenant
+
+The Tempest
+
+in thee, I have with such a pity safely order’d, that not one creature in the
+Ship is lost.
+
+MIRANDA
+O Heavens! what foul play had we, that we hither came, or was’t a blessing
+that we did?
+
+MIRANDA
+ou often, Sir, began to tell me what I am,
+But then you stopt.
+PROSPERO
+The hour’s now come; Obey, and be attentive, Canst thou remember a time
+before we came into this Cell? I do not think thou canst, for then thou wert
+not full three years old.
+MIRANDA
+Certainly I can, Sir.
+PROSPERO
+Tell me the image then of any thing which thou dost keep in thy
+remembrance still.
+MIRANDA
+Sir, had I not four or five Women once that tended me?
+PROSPERO
+Thou hadst, and more, Miranda: what see’st thou else in the dark backward, and abyss of Time?
+[150] If thou remembrest ought e’re thou cam’st here, then, how thou cam’st
+thou may’st emember too.
+MIRANDA
+Sir, that I do not.
+PROSPERO
+Fifteen Years since, Miranda, thy Father was the Duke of Millan, and a
+Prince of power.
+MIRANDA
+Sir, are not you my Father?
+PROSPERO
+Thy Mother was all virtue, and she said, thou wast my Daughter, and thy
+Sister too.
+
+13
+
+PROSPERO
+Both, both, my Girl.
+MIRANDA
+How my heart bleeds to think what you have suffer’d. But, Sir, I pray
+proceed.
+PROSPERO
+y Brother, and thy Uncle, call’d Antonio, to whom I trusted then the
+manage of my State, while I was wrap’d with secret Studies: That false
+Uncle (do’st thou attend me Child?)
+MIRANDA
+Sir, most heedfully.
+PROSPERO
+Having attain’d the craft of granting suits, and of denying them; whom to
+advance, or lop, for over-toping, soon was grown the Ivy which did hide my
+Princely Trunck, and suckt my verdure out: thou attend’st not.
+MIRANDA
+O good Sir, I do.
+PROSPERO
+I thus neglecting worldly ends, and bent to closeness, and the bettering of
+my mind, wak’d in my false Brother an evil Nature:
+[175] He did believe
+He was indeed the Duke, because he then did execute the outward face of
+Soveraignty. Do’st thou still mark me?
+MIRANDA
+Your story would cure deafness.
+PROSPERO
+To have no screen between the part he plaid, and whom he plaid it for; he
+needs would be Absolute Millan, and Confederates (so dry he was for Sway)
+with Savoy’s Duke, to give him Tribute, and to do him homage.
+
+14
+
+Dryden and Davenant
+
+MIRANDA
+False man!
+PROSPERO
+This Duke of Savoy being an Enemy,
+To me inveterate, strait grants my Brother’s suit,
+And on a night
+Mated to his design, Antonio opened the Gates of Millan, and i’th’ dead of
+darkness, hurri’d me thence with thy young Sister, and thy crying self.
+MIRANDA
+But wherefore did they not that hour destroy us?
+PROSPERO
+They durst not, Girl, in Millan, For the love my people bore me; in short,
+they hurri’d us away to Savoy, and thence aboard a Bark at Nissa’s Port:
+bore us some Leagues to Sea, where they prepar’d a rotten Carkass of a
+Boat, not rigg’d, no Tackle, Sail, nor Mast; the very Rats instinctively had
+quit it: they hoisted us, to cry to Seas which roar’d to us; to sigh to Winds,
+whose pity sighing back again, did seem to do us loving wrong.
+MIRANDA
+Alack! what trouble was I then to you?
+PROSPERO
+[200] Thou and thy Sister were two Cherubins, which did preserve me: you
+both did smile, infus’d with fortitude from Heaven.
+MIRANDA
+How came we ashore?
+PROSPERO
+By Providence Divine, Some food we had, and some fresh Water, which a
+Noble man of Savoy, called Gonzalo, appointed Master of that black
+design, gave us; with rich Garments, and all necessaries, which since have
+steaded much: and of his gentleness (knowing I lov’d my Books) he furnisht
+me from mine own Library, with Volumes which I prize above my
+Dukedom.
+MIRANDA
+Would I might see that man.
+
+The Tempest
+
+15
+
+PROSPERO
+Here in this Island we arriv’d, and here have I your Tutor been. But by my
+skill I find that my mid-Heaven doth depend on a most happy Star, whose
+influence if I now court not, but omit, my Fortunes will ever after droop:
+here cease more question, thou art inclin’d to sleep: ’tis a good dulness, and
+give it way; I know thou canst not chuse.
+[She falls asleep.
+Come away my Spirit: I am ready now, approach
+My Ariel, Come.
+[Enter Ariel.
+ARIEL
+All hail great Master, grave Sir, hail, I come to answer thy best pleasure, be
+it to fly, to swim, to shoot into the fire, to ride on the curl’d Clouds; to thy
+strong bidding, task Ariel and all his qualities.
+PROSPERO
+Hast thou, Spirit, perform’d to point the Tempest that [225] I bad thee?
+ARIEL
+To every Article. I boarded the Duke’s Ship, now on the Beak, now in the
+Waste, the Deck, in every Cabin; I flam’d amazement, and sometimes I
+seem’d to burn in many places on the Top-Mast, the Yards and Bore-sprit;
+I did flame distinctly.
+PROSPERO
+May brave Spirit! Who was so firm, so constant, that this coil did not infect
+his Reason?
+ARIEL
+Not a soul But felt a Feaver of the mind, and play’d some tricks of
+desperation; all, but Mariners, plung’d in the foaming brine, and quit the
+Vessel: the Duke’s Son, Ferdinand, with hair upstairing (more like Reeds
+than Hair) was the first man that leap’d; cry’d, Hell is empty, and all the
+Devils are here.
+PROSPERO
+Why that’s my Spirit;
+But was not this nigh Shore?
+ARIEL
+Close by my Master.
+PROSPERO
+But, Ariel, are they safe?
+
+16
+
+Dryden and Davenant
+
+The Tempest
+
+17
+
+What is’t thou canst demand?
+ARIEL
+Not a hair perisht.
+In Troops I have dispers’d them round this Isle. The Duke’s Son I have
+landed by himself, whom I have left warming the air with sighs, in an odde
+angle of the Isle, and sitting, his arms he folded in this sad knot.
+PROSPERO
+Say how thou hast dispos’d the Mariners of the Duke’s [250] Ship, and all the
+rest of the Fleet.
+ARIEL
+Safely in Harbour
+Is the Duke’s Ship, in the deep Nook, where once thou call’dst
+Me up at midnight to fetch Dew from the
+Still vext Bermoothes, there she’s hid,
+The Mariners all under hatches stow’d,
+Whom, with a charm, join’d to their suffer’d labour,
+I have left asleep, and for the rest o’th’ Fleet
+(Which I disperst) they all have met again,
+And are upon the Mediterranean Float,
+Bound sadly home for Italy;
+Supposing that they saw the Duke’s Ship wrackt,
+And his great person perish.
+PROSPERO
+Ariel, thy charge
+Exactly is perform’d, but there’s more work:
+What is the time o’th’ day?
+ARIEL
+Past the mid-season.
+PROSPERO
+At least two Glasses: the time tween six and now must by us both be spent
+most preciously.
+ARIEL
+Is there more toyl? since thou dost give me pains, let me remember thee
+what thou hast promis’d, which is not yet perform’d me.
+PROSPERO
+How now, Moodie?
+
+ARIEL
+My liberty.
+PROSPERO
+[275] Before the time be out? no more.
+ARIEL
+I prethee!
+Remember I have done thee faithful service,
+Told thee no lyes, made thee no mistakings,
+Serv’d without or grudge, or grumblings:
+Thou didst promise to bate me a full year.
+PROSPERO
+Dost thou forget
+From what a torment I did free thee?
+ARIEL
+No.
+PROSPERO
+Thou dost, and think’st it much to tread the Ooze
+Of the salt deep:
+To run against the sharp wind of the North,
+To do my business in the Veins of the Earth,
+When it is bak’d with Frost.
+ARIEL
+I do not, Sir.
+PROSPERO
+Thou ly’st, malignant thing! hast thou forgot the foul Witch Sycorax, who
+with age and envy was grown into a Hoop? hast thou forgot her?
+ARIEL
+No Sir!
+PROSPERO
+Thou hast; where was she born? speak, tell me.
+
+18
+
+Dryden and Davenant
+
+The Tempest
+
+ARIEL
+Sir, in Argier.
+
+ARIEL
+I thank thee, Master.
+
+PROSPERO
+Oh, was she so! I must Once every Month recount what thou hast been,
+which thou forgettest. This damn’d Witch Sycorax for mischiefs manifold,
+and sorceries too terrible to enter humane hearing, from [300] Argier thou
+knowst was banisht: but for one thing she did, they would not take her life:
+is not this true?
+
+PROSPERO
+If thou more murmurest, I will rend an Oak,
+And peg the in his knotty Entrails, till thou
+Hast howld away twelve Winters more.
+
+ARIEL
+I Sir.
+PROSPERO
+This blew-ey’d Hag was hither brought with child,
+And here was left by th’ Saylors, thou, my slave,
+As thou report’st thy self, wast then her servant,
+And ’cause thou wast a spirit too delicate
+To act her earthy and ahborr’d commands;
+Refusing her grand Hests, she did confine thee,
+By help of her more potent Ministers,
+(In her unmitigable rage) into a cloven Pine,
+Within whose rist imprison’d, thou didst painfully
+Remain a dozen years; within which space she dy’d,
+And left thee there; where thou didst vent thy
+Groans, as fast as Mill-wheels strike.
+Then was this Isle (save for two Brats, which she did
+Litter here, the brutish Caliban, and his twin Sister,
+Two freckel’d-hag-born Whelps) not honour’d with
+A humane shape.
+ARIEL
+Yes! Caliban her Son, and Sycorax his Sister.
+PROSPERO
+Dull thing, I say so; he, that Caliban, and she that Sycorax, whom I now
+keep in service. Thou best knowst what torment I did find thee in, thy
+groans did make Wolves howl, and penetrate the breasts of ever angry
+Bears, it was a torment to lay upon the damn’d, which Sycorax could ne’re
+[325] again undo: It was my Art, when I arriv’d, and heard thee, that made
+the Pine to gape and let thee out.
+
+19
+
+ARIEL
+Pardon, Master,
+I will be correspondent to command, and be
+A gentle spirit.
+PROSPERO
+Do so, and after two days I’le discharge thee.
+ARIEL
+That’s my noble Master.
+What shall I do? say? what? what shall I do?
+PROSPERO
+Be subject to no sight but mine; invisible to
+Every eye-ball else: hence with diligence.
+My daughter wakes. A non thou shalt know more.
+Thou hast slept well my child.
+
+[Ex. Ariel.
+
+MIRANDA
+The sadness of your story put heaviness in me.
+PROSPERO
+Shake it off; come on, I’le now call Caliban, my slave,
+Who never yields us a kind answer.
+MIRANDA
+’Tis a creature, Sir, I do not love to look on.
+PROSPERO
+But as ’tis, we cannot miss him; he does make our Fire, fetch in our Wood,
+and serve in Offices that profit us: what hoa! Slave! Caliban! thou Earth
+thou, speak.
+CALIBAN. WITHIN
+There’s Wood enough within.
+
+20
+
+Dryden and Davenant
+
+The Tempest
+
+21
+
+else this Isle with Calibans.
+PROSPERO
+Come forth, I say, there’s other business for thee.
+[350] Come thou Tortoise, when?
+Fine apparition, my quaint Ariel,
+Hark in thy ear.
+ARIEL
+My Lord it shall be done.
+
+[Enter Ariel.
+
+[Exit.
+
+PROSPERO
+Thou poisonous Slave, got by the Devil himself upon thy wicked Dam, come
+forth.
+[Enter Caliban.
+CALIBAN
+As wicked Dew, as e’re my Mother brush’d with Raven’s Feather from
+unwholsome Fens, drop on you both: A South-west blow on you, and blister
+you all o’re.
+PROSPERO
+For this besure, to night thou shalt have Cramps, side-stitches, that shall
+pen thy breath up; Urchins shall prick thee till thou bleed’st: thou shalt be
+pinch’d as thick as Honey-Combs, each pinch more stinging than the Bees
+which made ’em.
+CALIBAN
+I must eat my dinner: this Island’s mine by Sycorax my Mother, which thou
+took’st from me. When thou cam’st first, thou stroak’st me, and mad’st
+much of me, would’st give me Water with Berries in’t, and teach me how to
+name the bigger Light, and how the less, that burn by day and night; and
+then I lov’d thee, and shew’d thee all the qualities of the Isle, the freshSprings, brine-Pits, barren places, and fertil. Curs’d be I, that I did so: All
+the Charms of Sycorax, Toads, Beetles, Batts, light on thee, for I am all the
+Subjects that thou hast. I first was mine own Lord; and here thou stay’st me
+in this hard Rock, whiles thou dost keep from me the rest o’th’ [375] Island.
+PROSPERO
+hou most lying Slave, whom stripes may move, not kindness: I have us’d
+thee (filth that thou art) with humane care, and lodg’d thee in mine own
+Cell, till thou didst seek to violate the honour of my Children.
+CALIBAN
+Oh ho, Oh ho, would t’had been done: thou did’st prevent me, I had peopl’d
+
+PROSPERO
+Abhor’d Slave! Who ne’re would any print of goodness take, being capable
+of all ill: I pity’d thee, took pains to make thee speak, taught thee each hour
+one thing or other; when thou didst not (Savage) know thy own meaning,
+but would’st gabble, like a thing most brutish, I endow’d thy purposes with
+words which made them known: But thy wild race (though thou did’st
+learn) had that in’t, which good Natures could not abide to be with:
+therefore wast thou deservedly pent up into this Rock.
+CALIBAN
+You taught me language, and my profit by it is, that I know to curse: the red
+botch rid you for learning me your language.
+PROSPERO
+Hag-seed hence!
+Fetch us in fewel, and be quick
+To answer other business: shrugst thou (malice)
+If thou neglectest or dost unwillingly what I command,
+I’le wrack thee with old Cramps, fill all thy bones with
+Aches, make thee roar, that Beasts shall tremble
+[400] At thy Din.
+CALIBAN
+No prethee!
+I must obey. His Art is of such power,
+It would controul my Dam’s God, Setebos,
+And make a Vassal of him.
+PROSPERO
+So Slave, hence.
+
+[Exeunt Prospero and Caliban severally.
+Enter Dorinda.
+
+DORINDA
+Oh Sister! what have I beheld?
+MIRANDA
+hat is it moves you so?
+DORINDA
+From yonder Rock,
+
+22
+
+Dryden and Davenant
+
+As I my Eyes cast down upon the Seas,
+The whistling winds blew rudely on my face,
+And the waves roar’d; at first I thought the War
+Had bin between themselves, but strait I spy’d
+A huge great Creature.
+MIRANDA
+O you mean the Ship.
+DORINDA
+Is’t not a Creature then? it seem’d alive.
+MIRANDA
+But what of it?
+DORINDA
+This floating Ram did bear his Horns above;
+All ty’d with Ribbands, russling in the wind,
+Sometimes he nodded down his head a while,
+And then the Waves did heave him to the Moon;
+He clamb’ring to the top of all the Billows,
+And then again he curtsy’d down so low,
+I could not see him: till, at last, all side long
+With a great crack his belly burst in pieces.
+MIRANDA
+[425] There all had perisht
+Had not my Father’s magick Art reliev’d them.
+But, Sister, I have stranger news to tell you;
+In this great Creature there were other Creatures,
+And shortly we may chance to see that thing,
+Which you have heard my Father call, a Man.
+DORINDA
+But what is that? for yet he never told me.
+MIRANDA
+I know no more than you: but I have heard
+My Father say we Women were made for him.
+DORINDA
+What, that he should eat us Sister?
+
+The Tempest
+
+23
+
+MIRANDA
+No sure, you see my Father is a man, and yet
+He does us good. I would he were not old.
+DORINDA
+Methinks indeed it would be finer, if we two
+Had two young Fathers.
+MIRANDA
+No Sister, no, if they were young, my Father
+Said that we must call them Brothers.
+DORINDA
+But pray how does it come that we two are not Brothers then, and have not
+Beards like him?
+MIRANDA
+Now I confess you pose me.
+DORINDA
+How did he come to be our Father too?
+MIRANDA
+I think he found us when we both were little, and grew within the ground.
+DORINDA
+Why could he not find more of us? pray sister let you and I look up and
+down one day, to find some little ones for us to play with.
+MIRANDA
+[450] Agreed; but now we must go in. This is the hour
+Wherein my Father’s Charm will work,
+Which seizes all who are in open Air:
+Th’ effect of his great Art I long to see,
+Which will perform as much as Magick can.
+DORINDA
+And I, methinks, more long to see a Man.
+
+24
+
+Dryden and Davenant
+
+ACT II.
+Enter Alonzo, Antonio, Gonzalo, Attendants.
+GONZALO
+BESEECH your Grace be merry; you have cause, so have we all, of joy for our
+strange scape: then wisely, good Sir, weigh our sorrow with our comfort.
+ALONZO
+Prithee peace! you cram these words into my Ears against my stomack, how
+can I rejoyce, when my dear Son, perhaps this very moment, is made a meal
+to some strange Fish?
+ANTONIO
+Sir, he may live, I saw him beat the billows under him, and ride upon their
+backs; he trod the Water, whose enmity he flung aside, and breasted the
+most swoln surge that met him, his bold head ’bove the contentious waves
+he kept, and oar’d himself with his strong arms to shore, I do not doubt he
+came alive to land.
+ALONZO
+No, no, he’s gone, and you and I, Antonio, were those who caus’d his death.
+ANTONIO
+How could we help it?
+ALONZO
+Then, then, we should have helpt it, when thou betrayedst thy Brother
+Prospero, and Mantua’s Infant, Sovereign to my power: And when I, too
+ambitious, took by force anothers right; then lost we Ferdinand, then
+forfeited our Navy to this Tempest.
+ANTONIO
+Indeed we first broke truce with Heav’n;
+You to the waves an Infant Prince expos’d,
+And on the waves have lost an only Son;
+[25] I did usurp my Brother’s fertile lands, and now
+Am cast upon this desert Isle.
+GONZALO
+These, Sir, ’tis true, were crimes of a black Dye,
+But both of you have made amends to Heav’n,
+
+The Tempest
+
+25
+
+By your late Voyage into Portugal,
+Where, in defence of Christianity,
+Your valour has repuls’d the Moors of Spain.
+ALONZO
+O name it not, Gonzalo.
+No act but penitence can expiate guilt,
+Must we teach Heaven what price to set on Murthers?
+What rate on lawless power, and wild ambition?
+Or dare we traffick with the Powers above,
+And sell by weight a good deed for a bad?
+
+[Musick within.
+
+GONZALO
+Musick! and in the air! sure we are shipwrackt on the Dominions of some
+merry Devil.
+ANTONIO
+This Isle’s inchanted ground, for I have heard
+Swift voices flying by my Ear, and groans
+Of lamenting Ghosts.
+ALONZO
+I pull’d a Tree, and Blood pursu’d my hand; O Heaven! deliver me from this
+dire dare place, and all the after actions of my life shall mark my penitence
+and my bounty.
+Heark!
+[A Dialogue within sung in parts.
+The sounds approach us.
+1 D.
+Where does proud Ambition dwell?
+2.
+In the lowest Rooms of Hell.
+1.
+[50] Of
+
+the damn’d who leads the Host?
+
+2.
+He who did oppress the most.
+1.
+Who such Troops of damned brings?
+
+26
+
+Dryden and Davenant
+
+The Tempest
+
+2.
+Most are led by fighting Kings.
+Kings who did Crowns unjustly get,
+Here on burning Thrones are set.
+
+ANTONIO
+[75] Sure Hell is open’d to devour us quick.
+
+CHORUS
+Kings who did Crowns, &c.
+
+1ST DEVIL
+Say Brother, shall we bear these mortals hence?
+
+ANTONIO
+Do you hear, Sir, how they lay our Crimes before us?
+
+2ND DEVIL
+First let us shew the shapes of their offence.
+
+GONZALO
+Do evil Spirits imitate the good,
+In shewing men their sins?
+
+1ST DEVIL
+We’ll muster then their crimes on either side:
+Appear! appear! their first begotten, Pride.
+
+ALONZO
+But in a different way,
+Those warn from doing, these unbraid ’em done.
+1.
+Who are the Pillars of Ambitions Court?
+2.
+Grim Deaths and Scarlet Murthers it support.
+1.
+What lyes beneath her feet?
+2.
+Her footsteps tread,
+On Orphans tender breasts, and Brothers dead.
+1.
+Can Heaven permit such Crimes should be
+Rewarded with felicity?
+2.
+Oh no! uneasily their Crowns they wear,
+And their own guilt amidst their Guards they fear.
+Cares when they wake their minds unquiet keep,
+And we in visions lord it o’re their sleep.
+
+PRIDE
+Lo! I am here, who led their hearts astray,
+And to Ambition did their minds betray.
+
+CHORUS
+Oh no! uneasily their Crowns, &c.
+ALONZO
+See where they come in horrid shapes!
+Enter the two that sung, in the shape of Devils,
+
+27
+
+placing themselves at two corners of the Stage.
+
+FRAUD
+And guileful Fraud does next appear,
+Their wandring steps who led,
+When they from virtue fled,
+And in my crooked paths their course did steer.
+RAPINE
+From Fraud to Force they soon arrive,
+Where Rapine did their actions drive.
+
+[Enter Pride.
+
+[Enter Fraud.
+
+[Enter Rapine.
+
+[Enter Murther.
+
+MURDER
+There long they cannot stay,
+Down the deep precipice they run,
+And to secure what they have done,
+To murder bend their way.
+After which they fall into a round encompassing
+the Duke, &c. Singing.
+Around, around, we pace
+About this cursed place,
+Whilst thus we compass in
+These mortals and their sin.
+
+[All the spirits vanish.
+[Dance.
+
+28
+
+Dryden and Davenant
+
+The Tempest
+Hark! hark! Bow-waugh; the watch-dogs bark,
+Bow-waugh.
+
+ANTONIO
+Heav’n has heard me! they are vanish’d.
+
+ARIEL
+Hark! hark! I hear the strain of strutting Chanticleer
+Cry Cock a doodle do.
+
+ALONZO
+But they have left me all unman’d;
+I feel my sinews slacken’d with the fright,
+And a cold sweat trills down o’re all my limbs,
+[100] As if I were dissolving into Water.
+O Prospero! my crimes ’gainst thee sit heavy on my heart.
+
+FERDINAND
+Where should this Musick be? i’th’ Air, orth’ Earth?
+[125] It sounds no more, and sure it waits upon some God
+O’th’ Island, sitting on a bank weeping against the Duke
+My Father’s wrack. This musick hover’d o’re me
+On the waters, allaying both their fury and my passion
+With charming Airs; thence I have follow’d it (or it
+Hath drawn me rather) but ’tis gone;
+No, it begins again.
+
+ANTONIO
+And mine, ’gainst him and young Hippolito.
+GONZALO
+Heav’n have mercy on the penitent!
+ALONZO
+Lead from this cursed ground;
+The Seas, in all their rage, are not so dreadful.
+This is the Region of despair and death.
+
+Ariel. Song.
+Full Fathoms five thy Father lyes,
+Of his bones is Coral made:
+Those are Pearls that were his eyes,
+Nothing of him that does fade,
+But does suffer a Sea-change
+Into something rich and strange:
+Sea-Nymphs hourly ring his,
+Heark now I hear’em, Ding dong Bell.
+
+GONZALO
+Shall we not seek some food?
+ALONZO
+Beware all fruit but what the birds have peid,
+The shadows of the Trees are poisonous too;
+A secret venom slides from every branch.
+My conscience doth distract me, O my Son!
+Why do I speak of eating or repose,
+Before I know thy fortune?
+
+29
+
+[Exeunt.
+
+FERDINAND
+The mournful Ditty mentions my drown’d Father,
+This is no mortal business, nor a sound which the
+Earth owns: I hear it now before me,
+However I will on and follow it.
+
+[Burthen, Ding dong.
+
+[Ex. Ferd. and Ariel.
+
+Enter Ferdinand, and Ariel, invisible, playing and singing.
+Enter Stephano, Mustacho, Ventoso.
+Ariel’s Song.
+Come unto these yellow sands
+And then take hands.
+Curtsy’d when you have and kiss’d,
+The wild waves whist.
+Foot it featly here and there, and sweet sprights bear
+the Burthen.
+[Burthen dispersedly
+
+VENTOSO
+The Runlet of Brandy was a loving Runlet, and floated after us out of pure
+pity.
+MUSTACHO
+This kind Bottle, like an old acquaintance, swam after it.
+And this Scollop-shell is all our Plate now.
+
+30
+
+Dryden and Davenant
+
+VENTOSO
+’Tis well we have found something since we landed.
+I prethee fill a soop, and let it go round.
+[150] Where hast thou laid the Runlet?
+MUSTACHO
+I’th’ hollow of an old Tree.
+VENTOSO
+Fill apace,
+We cannot live long in this barren Island, and we may
+Take a soop before death, as well as others drink
+At our Funerals.
+
+The Tempest
+
+31
+
+VENTOSO
+Beshrew thy heart for putting me in mind of thy Wife,
+I had not thought of mine else, Nature will shew it self,
+I must melt. I prithee fill agen, my Wife’s a good old jade,
+And has but one eye left: but she’ll weep out that too,
+When she hears that I am dead.
+STEPHANO
+ould you were both hang’d for putting in thought of [175] mine. But well, If
+I return not in seven years to my own Country, she may marry agen: and ’tis
+from this Island thither at least seven years swimming.
+MUSTACHO
+O at least, having no help of Boat nor Bladders.
+
+MUSTACHO
+This is prize-Brandy, we steal Custom, and it costs nothing. Let’s have two
+rounds more.
+
+STEPHANO
+Whoe’re she marries, poor soul, she’ll weep a nights when she thinks of
+Stephano.
+
+VENTOSO
+Master, what have you sav’d?
+
+VENTOSO
+But Master, sorrow is dry! there’s for you agen.
+
+STEPHANO
+Just nothing but my self.
+
+STEPHANO
+A Mariner had e’en as good be as Fish as a Man, but for the comfort we get
+ashore: O for any old dry Wench now I am wet.
+
+VENTOSO
+This works comfortably on a cold stomach.
+STEPHANO
+Fill’s another round.
+VENTOSO
+Look! Mustacho weeps. Hang losses as long as we have Brandy left. Prithee
+leave weeping.
+STEPHANO
+He sheds his Brandy out of his eyes: he shall drink no more.
+MUSTACHO
+This will be a doleful day with old Bess. She gave me a gilt Nutmeg at
+parting. That’s lost too. But as you say, hang losses. Prithee fill agen.
+
+MUSTACHO
+Poor heart! that would soon make you dry agen: but all is barren in this
+Isle: here we may lye at Hull till the Wind blow Nore and by South, e’re we
+can cry a Sail, a Sail at sight of a white Apron. And therefore here’s another
+soop to comfort us.
+VENTOSO
+This Isle’s our own, that’s our comfort, for the Duke, the Prince, and all
+their train are perished.
+MUSTACHO
+Our Ship is sunk, and we can never get home agen: we must e’en turn
+Salvages, and the next that catches his fellow may eat him.
+VENTOSO
+No, no, let us have a Government; for if we live well and orderly, Heav’n will
+drive the Shipwracks ashore to make us all rich, therefore let us carry good
+
+32
+
+Dryden and Davenant
+
+Consciences, and not eat one another.
+STEPHANO
+Whoever eats any of my subjects, I’le break out his [200] Teeth with my
+Scepter: for I was Master at Sea, and will be Duke on Land: you Mustacho
+have been my Mate, and shall be my Vice-Roy.
+VENTOSO
+When you are Duke you may chuse your Vice-Roy; but I am a free Subject
+in a new Plantation, and will have no Duke without my voice. And so fill me
+the other soop.
+STEPHANO WHISPERING
+Ventoso, dost thou hear, I will advance thee, prithee give me thy voice.
+
+The Tempest
+
+33
+
+Enter Trincalo with a great bottle, half drunk.
+VENTOSO
+How! Trincalo our brave Bosen!
+MUSTACHO
+He reels: can he be drunk with Sea-water?
+TRINCALO SINGS.
+I shall no more to Sea, to Sea,
+Here I shall dye ashore.
+This is a very scurvy tune to sing at a man’s funeral,
+But here’s my comfort.
+
+[Drinks.
+
+Sings.
+VENTOSO
+I’le have no whisperings to corrupt the Election; and to show that I have no
+private ends, I declare aloud that I will be Vice-Roy, or I’le keep my voice
+for my self.
+MUSTACHO
+Stephano, hear me, I will speak for the people, because there are few, or
+rather none in the Isle to speak for themselves. Know then, that to prevent
+the farther shedding of Christian blood, we are all content Ventoso shall be
+Vice-Roy, upon condition I may be Vice-Roy over him. Speak good people,
+are you well agreed? what, no man answer? well, you may take their silence
+for consent.
+VENTOSO
+You speak for the people, Mustacho? I’le speak for ’em, and declare
+generally with one voice, one word and all; that there shall be no Vice-Roy
+but the Duke, unless I be he.
+MUSTACHO
+You declare for the people, who never saw your face! Cold Iron shall decide
+it.
+[Both draw.
+STEPHANO
+Hold, loving Subjects: we will have no Civil war during our Reign: I do
+hereby appoint you both to be my Vice-Roys [225] over the whole Island.
+BOTH
+Agreed! agreed!
+
+The Master, the Swabber, the Gunner, and I,
+The Surgeon, and his Mate,
+Lov’d Mall, Meg, and Marrian, and Margery,
+But none of us car’d for Kate.
+For she had a tongue with a tang,
+Wou’d cry to a Saylor, go hang:
+She lov’d not the savour of Tar nor of Pitch,
+Yet a Taylor might scratch her where e’re she did itch.
+This is a scurvy Tune too, but here’s my comfort agen.
+STEPHANO
+We have got another subject now; welcome,
+Welcome into our Dominions!
+TRINCALO
+What Subject, or what Dominions? here’s old Sack
+Boys: the King of good fellows can be no subject.
+I will be Old Simon the King.
+MUSTACHO
+Hah, old Boy! how didst thou scape?
+TRINCALO
+Upon a Butt of Sack, Boys, which the Saylors
+Threw overboard: but are you alive, hoa! for I will
+[250] Tipple with no Ghosts till I’m dead: thy hand Mustacho,
+And thine Ventoso; the storm has done its worst:
+
+[Drinks.
+
+34
+
+Dryden and Davenant
+
+Stephano alive too! give thy Bosen thy hand, Master.
+VENTOSO
+You must kiss it then, for, I must tell you, we have chosen him Duke in a full
+Assembly.
+TRINCALO
+A Duke! where? what’s he Duke of?
+MUSTACHO
+Of this Island, man. Oh Trincalo we are all made, the
+Island’s empty; all’s our own, Boy; and we will speak to his
+Grace for thee, that thou may’st be as great as we are.
+TRINCALO
+You great? what the Devil are you?
+VENTOSO
+We two are Vice-Roys over all the Island; and when we are weary of
+Governing thou shalt succeed us.
+TRINCALO
+Do you hear, Ventoso, I will succeed you in both your places before you
+enter into ’em.
+STEPHANO
+Trincalo, sleep and be sober; and make no more uproars in my Country.
+TRINCALO
+Why, what are you, Sir, what are you?
+STEPHANO
+What I am, I am by free election, and you Trincalo are not your self; but we
+pardon your first fault,
+Because it is the first day of our Reign.
+TRINCALO
+Umph, were matters carried so swimmingly against me, whilst I was
+swimming, and saving my self for the good of the people of this Island.
+MUSTACHO
+Art thou mad Trincalo, wilt thou disturb a settled Government?
+
+The Tempest
+
+35
+
+TRINCALO
+I say this Island shall be under Trincalo, or it shall be [275] a Commonwealth; and so my Bottle is my Buckler, and so I draw my Sword.
+[Draws.
+VENTOSO
+Ah Trincalo, I thought thou hadst had more grace,
+Than to rebel against thy old Master,
+And thy two lawful Vice-Roys.
+MUSTACHO
+Wilt not thou take advice of two that stand
+For old Counsellors here, where thou art a meer stranger
+To the Laws of the Country.
+TRINCALO
+I’ll have no Laws.
+VENTOSO
+Then Civil-War begins.
+
+[Vent. Must. draw.
+
+STEPHANO
+Hold, hold, I’le have no blood shed,
+My Subjects are but few: let him make a rebellion
+By himself; and a Rebel, I Duke Stephano declare him:
+Vice-Roys, come away.
+TRINCALO
+And Duke Trincalo declares, that he will make open war wherever he meets
+thee or thy Vice-Roys.
+[Ex. Steph. Must. Vent.
+Enter Caliban with wood upon his back.
+TRINCALO
+Hah! who have we here?
+CALIBAN
+All the infections that the Sun sucks up from Fogs, Fens, Flats, on Prospero
+fall; and make him by inch-meal a Disease: his spirits hear me, and yet I
+needs must curse, but they’l not pinch, fright me with Urchin shows, pitch
+me i’th’ mire, nor lead me in the dark out of my way, unless he bid ’em: but
+for every trifle he sets them on me; sometimes like Baboons they mow and
+chatter at me, and often bite me; like Hedge-hogs then they mount their
+
+36
+
+Dryden and Davenant
+
+The Tempest
+
+prickles at me, tumbling before me in my [300] barefoot way. Sometimes I
+am all wound about with Adders, who with their cloven tongues hiss me to
+madness. Hah! yonder stands one of his spirits sent to torment me.
+
+CALIBAN
+I’le shew thee every fertile inch i’th’ Isle, and kiss thy foot: I prithee be my
+God, and let me drink.
+[Drinks agen.
+
+TRINCALO
+What have we here, a man, or a fish?
+This is some Monster of the Isle, were I in England,
+As once I was, and had him painted;
+Not a Holy-day fool there but would give me
+Six-pence for the sight of him; well, if I could make
+Him tame, he were a present for an Emperour.
+Come hither pretty Monster, I’le do thee no harm.
+Come hither!
+CALIBAN
+Torment me not;
+I’le bring thee Wood home faster.
+TRINCALO
+He talks none of the wisest, but I’le give him
+A dram o’th’ Bottle, that will clear his understanding.
+Come on your ways Master Monster, open your mouth.
+How now, you perverse Moon-calf! what,
+I think you cannot tell who is your friend!
+Open your chops, I say.
+[Pours Wine down his throat.
+CALIBAN
+This is a brave God, and bears coelestial Liquor,
+I’le kneel to him.
+TRINCALO
+He is a very hopeful Monster; Monster what say’st thou, art thou content
+to turn civil and sober, as I am? for then thou shalt be my subject.
+CALIBAN
+I’le swear upon that Bottle to be true; for the liquor [325] is not Earthly:
+did’st thou not drop from Heaven?
+TRINCALO
+Only out of the Moon, I was the man in her when time was. By this light, a
+very shallow Monster.
+
+TRINCALO
+Well drawn, Monster, in good faith.
+CALIBAN
+I’le shew thee the best Springs, I’le pluck thee Berries,
+I’le fish for thee, and get thee wood enough:
+A curse upon the Tyrant whom I serve, I’le bear him
+No more sticks, but follow thee.
+TRINCALO
+The poor Monster is loving in his drink.
+CALIBAN
+I prithee let me bring thee where Crabs grow,
+And I with my long Nails, will dig thee Pig-nuts,
+Shew thee a Jay’s Nest, and instruct thee how to snare
+The Marmazet; I’le bring thee to cluster’d Filberds;
+Wilt thou go with me?
+TRINCALO
+This Monster comes of a good natur’d race;
+Is there no more of thy kin in this Island?
+CALIBAN
+Divine, here is but one besides my self;
+My lovely Sister, beautiful and bright as the full Moon.
+TRINCALO
+Where is she?
+CALIBAN
+I left her clambring up a hollow Oak,
+And plucking thence the dropping Honey-Combs.
+Say my King, shall I call her to thee?
+TRINCALO
+She shall swear upon the Bottle too.
+[350] If she proves handsom she is mine: here Monster,
+Drink agen for thy good news; thou shalt speak
+
+37
+
+38
+
+Dryden and Davenant
+
+A good word for me.
+
+The Tempest
+[Gives him the Bottle.
+
+CALIBAN SINGS.
+Farewel, old Master, farewel, farewel.
+No more Dams I’le make for Fish,
+Nor fetch in firing at requiring,
+Nor scrape Trencher, nor wash Dish,
+Ban, Ban, Cackaliban
+Has a new Master, get a new man.
+Heigh-day, Freedom, freedom!
+TRINCALO
+Here’s two subjects got already, the Monster,
+And his Sister: well, Duke Stephano, I say, and say agen,
+Wars will ensue, and so I drink.
+From this worshipful Monster, and Mistress,
+Monster his Sister,
+I’le lay claim to this Island by Alliance:
+Monster, I say thy Sister shall be my Spouse:
+Come away Brother Monster, I’le lead thee to my Butt
+And drink her health.
+
+HIPPOLITO
+Since I knew life, you’ve kept me in a Rock,
+And you this day have hurry’d me from thence,
+Only to change my Prison, not to free me.
+I murmur not, but I may wonder at it.
+PROSPERO
+O gentle Youth, Fate waits for thee abroad,
+A black Star threatens thee, and death unseen
+Stands ready to devour thee.
+HIPPOLITO
+You taught me not to fear him in any of his shapes:
+Let me meet death rather than be a Prisoner.
+
+[Drinks.
+PROSPERO
+’Tis pity he should seize thy tender youth.
+
+[Exeunt.
+
+HIPPOLITO
+Sir, I have often heard you say, no creature liv’d
+Within this Isle, but those which Man was Lord of,
+Why then should I fear?
+
+Enter Prospero alone.
+PROSPERO
+’Tis not yet fit to let my Daughters know I kept
+The infant Duke of Mantua so near them in this Isle,
+Whose Father dying bequeath’d him to my care,
+Till my false Brother (when he design’d t’usurp
+My Dukedom from me) expos’d him to that fate
+He meant for me. By calculation of his birth
+[375] I saw death threat’ning him, if, till some time were
+Past, he should behold the face of any Woman:
+And now the danger’s nigh: Hippolito!
+[Enter Hippolito.
+HIPPOLITO
+Sir, I attend your pleasure.
+PROSPERO
+How I have lov’d thee from thy infancy,
+Heav’n knows, and thou thy self canst bear me witness,
+Therefore accuse not me for thy restraint.
+
+PROSPERO
+But here are creatures which I nam’d not to thee,
+Who share man’s soveraignty by Nature’s Laws,
+And oft depose him from it.
+HIPPOLITO
+What are those Creatures, Sir?
+PROSPERO
+Those dangerous enemies of men call’d women.
+HIPPOLITO
+[400] Women! I never heard of them before.
+But have I Enemies within this Isle, and do you
+Keep me from them? do you think that I want
+Courage to encounter ’em?
+PROSPERO
+No courage can resist ’em.
+
+39
+
+40
+
+Dryden and Davenant
+
+HIPPOLITO
+How then have you, Sir,
+Liv’d so long unharm’d among them?
+PROSPERO
+O they despise old age, and spare it for that reason:
+It is below their conquest, their fury falls
+Alone upon the young.
+HIPPOLITO
+Why then the fury of the young should fall on them again.
+Pray turn me loose upon ’em: but, good Sir,
+What are women like?
+PROSPERO
+Imagine something between young men and Angels:
+Fatally beauteous, and have killing Eyes,
+Their voices charm beyond the Nightingales,
+They are all enchantment, those who once behold ’em,
+Are made their slaves for ever.
+HIPPOLITO
+Then I will wink and fight with ’em.
+PROSPERO
+’Tis but in vain, for when your eyes are shut,
+They through the lids will shine, and pierce your soul;
+Absent, they will be present to you.
+They’l haunt you in your very sleep.
+HIPPOLITO
+Then I’le revenge it on ’em when I wake.
+PROSPERO
+You are without all possibility of revenge,
+[425] They are so beautiful that you can ne’re attempt,
+Nor wish to hurt them.
+HIPPOLITO
+Are they so beautiful?
+PROSPERO
+Calm sleep is not so soft, nor Winter Suns,
+
+The Tempest
+
+41
+
+Nor Summer Shades so pleasant.
+HIPPOLITO
+Can they be fairer than the Plumes of Swans?
+Or more delightful than the Peacocks Feathers?
+Or than the gloss upon the necks of Doves?
+Or have more various beauty than the Rain-bow?
+These I have seen, and without danger wondred at.
+PROSPERO
+All these are far below ’em. Nature made
+Nothing but Woman dangerous and fair:
+Therefore if you should chance to see ’em,
+Avoid ’em streight, I charge you.
+HIPPOLITO
+Well, since you say they are so dangerous,
+I’le so far shun ’em as I may with safety of the
+Unblemish’d honour which you taught me.
+But let ’em not provoke me, for I’m sure I shall
+Not then forbear them.
+PROSPERO
+Go in and read the Book I gave you last.
+Tomorrow I may bring you better news.
+HIPPOLITO
+shall obey you, Sir.
+
+[Exit Hippolito.
+
+PROSPERO
+So, so; I hope this lesson has secur’d him,
+For I have been constrain’d to change his Lodging
+From yonder Rock where first I bred him up,
+[450] And here have brought him home to my own Cell,
+Because the Shipwrack happen’d near his Mansion.
+I hope he will not stir beyond his limits,
+For hither he hath been all obedience;
+The Planets seem to smile on my designs,
+And yet there is one sullen cloud behind,
+I would it were disperst.
+[Enter Miranda and Dorinda.
+How, my daughters! I thought I had instructed
+Them enough: Children! retire;
+Why do you walk this way?
+
+42
+
+Dryden and Davenant
+
+MIRANDA
+It is within our bounds, Sir.
+PROSPERO
+But both take heed, that path is very dangerous.
+Remember what I told you.
+DORINDA
+Is the man that way, Sir?
+PROSPERO
+All that you can imagine is ill there,
+The curled Lyon, and the rugged Bear
+Are not so dreadful as that man.
+MIRANDA
+Oh me, why stay we here then?
+DORINDA
+I’le keep far enough from his Den, I warrant him.
+MIRANDA
+But you have told me, Sir, you are a man;
+And yet you are not dreadful.
+PROSPERO
+I child! but I am a tame man; old men are tame
+By Nature, but all the danger lies in a wild
+Young man.
+DORINDA
+Do they run wild about the Woods?
+PROSPERO
+[475] No, they are wild within Doors, in Chambers,
+And in Closets.
+DORINDA
+But Father, I would stroak ’em and make ’em gentle,
+Then sure they would not hurt me.
+
+The Tempest
+PROSPERO
+You must not trust them, Child: no woman can come
+Neer ’em but she feels a painfull nine Months:
+Well I must in; for new affairs require my
+Presence: be you, Miranda, your Sister’s Guardian.
+DORINDA
+Come, Sister, shall we walk the other way,
+The man will catch us else, we have but two legs,
+And he perhaps has four.
+MIRANDA
+Well, Sister, though he have; yet look about you
+And we shall spy him e’re he comes too near us.
+DORINDA
+Come back, that way is towards his Den.
+MIRANDA
+Let me alone; I’le venture first, for sure he can
+Devour but one of us at once.
+DORINDA
+How dare you venture?
+MIRANDA
+We’ll find him sitting like a Hare in’s Form,
+And he shall not see us.
+DORINDA
+I, but you know my Father charg’d us both.
+MIRANDA
+But who shall tell him on’t? we’ll keep each
+Others Counsel.
+DORINDA
+I dare not for the world.
+MIRANDA
+But how shall we hereafter shun him, if we do not
+Know him first?
+
+43
+
+[Exit Prospero.
+
+44
+
+Dryden and Davenant
+
+DORINDA
+[500] Nay I confess I would fain see him too. I find it in my Nature, because
+my Father has forbidden me.
+MIRANDA
+I, there’s it, Sister, if he had said nothing I had been quiet. Go softly, and if
+you see him first, be quick and becken me away.
+DORINDA
+Well, if he does catch me, I’le humble my self to him,
+And ask him pardon, as I do my Father,
+When I have done a fault.
+MIRANDA
+And if I can but scape with life, I had rather be in pain nine Months, as my
+Father threatn’d, than lose my longing.
+[Exeunt.
+The Scene changes, and discovers Hippolito
+in a Cave walking, his face from the Audience.
+HIPPOLITO
+Prospero has often said that Nature makes
+Nothing in vain: why then are women made?
+Are they to suck the poyson of the Earth,
+As gaudy colour’d Serpents are? I’le ask that
+Question, when next I see him here.
+
+The Tempest
+
+MIRANDA
+Heaven! what a goodly thing it is?
+DORINDA
+I’le go nearer it.
+MIRANDA
+O no, ’tis dangerous, Sister! I’le go to it.
+[525] I would not for the world that you should venture.
+My Father charg’d me to secure you from it.
+DORINDA
+I warrant you this is a tame man, dear Sister,
+He’ll not hurt me, I see it by his looks.
+MIRANDA
+Indeed he will! but go back, and he shall eat me first:
+Fye, are you not asham’d to be so much inquisitive?
+DORINDA
+You chide me for’t, and wou’d give yourself.
+MIRANDA
+Come back, or I will tell my Father.
+Observe how he begins to stare already.
+I’le meet the danger first, and then call you.
+
+Enter Miranda and Dorinda peeping.
+DORINDA
+Sister, there it is, it walks about like one of us.
+
+DORINDA
+Nay, Sister, you shall never vanquish me in kindness.
+I’le venture you, no more than you will me.
+
+MIRANDA
+I, just so, and has legs as we have too.
+
+PROSPERO WITHIN
+iranda, Child, where are you!
+
+HIPPOLITO
+It strangely puzzles me: yet ’tis most likely
+Women are somewhat between men and spirits.
+
+MIRANDA
+Do you not hear my Father call? go in.
+
+DORINDA
+Heark! it talks, sure this is not it my Father meant,
+For this is just like one of us: methinks I am not half
+So much afraid on’t as I was; see, now it turns this way.
+
+DORINDA
+’Twas you he nam’d, not me; I will but say my Prayers,
+And follow you immediately.
+
+45
+
+46
+
+Dryden and Davenant
+
+MIRANDA
+Well, Sister, you’l repent it.
+
+The Tempest
+
+[Exit Miranda.
+
+DORINDA
+Though I dye for’t, I must have th’other peep.
+
+I’ve seen two Serpents harmless to each other,
+Though they have twin’d into a mutual Knot:
+If we have any venome in us, sure, we cannot be more
+Poysonous, when we meet, than Serpents are.
+You have a hand like mine, may I not gently touch it?
+
+47
+
+[Takes her hand.
+
+HIPPOLITO SEEING HER
+What thing is that? sure ’tis some Infant of the Sun, dress’d in his Fathers
+gayest Beams, and comes to play with Birds: my sight is dazl’d, and yet I
+find I’m loth to shut my Eyes.
+I must go nearer it—but stay a while;
+May it not be that beauteous murderer, Woman,
+Which I was charg’d to shun? Speak, what art thou?
+[550] Thou shining Vision!
+
+DORINDA
+I’ve touch’d my Father’s and my Sister’s hands
+[575] And felt no pain; but now, alas! there’s something,
+When I touch yours, which makes me sigh: just so
+I’ve seen two Turtles mourning when they met;
+Yet mine’s a pleasing grief; and so methought was theirs;
+For still they mourn’d, and still they seem’d to murmur too,
+And yet they often met.
+
+DORINDA
+Alas I know not; but I’m told I am a Woman;
+Do not hurt me, pray, fair thing.
+
+HIPPOLITO
+Oh Heavens! I have the same sense too: your hand
+Methinks goes through me; I feel at my heart,
+And find it pleases, though it pains me.
+
+HIPPOLITO
+I’d sooner tear my eyes out, than consent to do you any harm; though I was
+told a Woman was my Enemy.
+DORINDA
+I never knew what ’twas to be an Enemy, nor can I e’re prove so to that
+which looks like you: for though I have been charg’d by him (whom yet I
+never disobey’d) to shun your presence, yet I’d rather dye than lose it;
+therefore I hope you will not have the heart to hurt me: though I fear you
+are a man, that dangerous thing of which I have been warn’d; pray tell me
+what you are?
+HIPPOLITO
+I must confess, I was inform’d I am a man,
+But if I fright you, I shall wish I were some other Creature.
+I was bid to fear you too.
+DORINDA
+y me! Heav’n grant we be not poyson to each other!
+Alas, can we not meet but we must die?
+HIPPOLITO
+I hope not so! for when two poysonous Creatures,
+Both of the same kind, meet, yet neither dies.
+
+PROSPERO WITHIN
+Dorinda!
+DORINDA
+My Father calls agen, ah, I must leave you.
+HIPPOLITO
+Alas, I’m subject to the same command.
+DORINDA
+This is my first offence against my Father,
+Which he, by severing us, too cruelly does punish.
+HIPPOLITO
+And this is my first trespass too: but he hath more
+Offended truth than we have him:
+He said our meeting would destructive be,
+But I no death but in our parting see.
+[Exeunt several ways.
+
+48
+
+Dryden and Davenant
+
+ACT III.
+Enter Prospero and Miranda.
+PROSPERO
+EXCUSE it not, Miranda, for to you (the elder, and, I thought the more
+discreet) I gave the conduct of your Sister’s actions.
+MIRANDA
+Sir, when you call’d me thence, I did not fail to mind her of her duty to
+depart.
+PROSPERO
+How can I think you did remember hers, when you forgot your own? did
+you not see the man whom I commanded you to shun?
+MIRANDA
+I must confess I saw him at a distance.
+PROSPERO
+Did not his Eyes infect and poyson you?
+What alteration found you in your self?
+MIRANDA
+I only wondred at a sight so new.
+PROSPERO
+But have you no desire once more to see him?
+Come, tell me truly what you think of him?
+MIRANDA
+As of the gayest thing I ever saw, so fine that it appear’d more fit to be
+belov’d than fear’d, and seem’d so near my kind, that I did think I might
+have call’d it Sister.
+PROSPERO
+You do not love it?
+MIRANDA
+How is it likely that I should, except the thing had first lov’d me?
+
+The Tempest
+
+49
+
+PROSPERO
+Cherish those thoughts: you have a gen’rous soul;
+And since I see your mind not apt to take the light
+Impressions of a sudden love, I will unfold
+A secret to your knowledge.
+[25] That Creature which you saw, is of a kind which
+Nature made a prop and guide to yours.
+MIRANDA
+Why did you then propose him as an object of terrour to my mind? you
+never us’d to teach me any thing but God-like truths, and what you said I
+did believe as sacred.
+PROSPERO
+I fear’d the pleasing form of this young man
+Might unawares possess your tender breast,
+Which for a nobler Guest I had design’d;
+For shortly, my Miranda, you shall see another of his kind,
+The full blown-flower, of which this youth was but the
+Op’ning-bud. Go in, and send your sister to me.
+MIRANDA
+Heav’n still preserve you, Sir.
+
+[Ex. Miranda.
+
+PROSPERO
+And make thee fortunate.
+Dorinda now must be examin’d too concerning this
+Late interview. I’m sure unartful truth lies open
+In her mind, as Crystal streams their sandy bottom show.
+I must take care her love grow not too fast,
+For innocence is Love’s most fertile soil,
+Wherein he soon shoots up and widely spreads,
+Nor is that danger which attends Hippolito yet overpast.
+[Enter Dorinda.
+PROSPERO
+O, come hither, you have seen a man to day,
+Against my strict command.
+DORINDA
+Who I? indeed I saw him but a little, Sir.
+
+50
+
+Dryden and Davenant
+
+PROSPERO
+Come, come, be clear. Your Sister told me all.
+DORINDA
+Did she? truly she would have seen him more than I,
+[50] But that I would not let her.
+PROSPERO
+Why so?
+DORINDA
+Because, methought, he would have hurt me less
+Than he would her. But if I knew you’d not be angry
+With him, I could tell you, Sir, that he was much to blame.
+PROSPERO
+Hah! was he to blame? Tell me, with that sincerity I taught you, how you
+became so bold to see the man?
+DORINDA
+I hope you will forgive me, Sir, because I did not see him much till he saw
+me. Sir, he would needs come in my way, and star’d, and star’d upon my
+face; and so I thought I would be reveng’d of him, and therefore I gaz’d on
+him as long; but if I e’re come neer a man again—
+PROSPERO
+I told you he was dangerous; but you would not be warn’d.
+DORINDA
+Pray be not angry, Sir, if I tell you, you are mistaken in him; for he did me
+no great hurt.
+
+The Tempest
+DORINDA
+Nay pray, Sir, say not so, I promis’d him
+To see him once agen; and you know, Sir,
+You charg’d me I should never break my promise.
+PROSPERO
+[75] Wou’d you see him who did you so much mischief?
+DORINDA
+I warrant you I did him as much harm as he did me,
+For when I left him, Sir, he sigh’d so as it griev’d
+My heart to hear him.
+PROSPERO
+Those sighs were poysonous, they infected you:
+You say they griev’d you to the heart.
+DORINDA
+’Tis true; but yet his looks and words were gentle.
+PROSPERO
+These are the Day-dreams of a maid in love,
+But still I fear the worst.
+DORINDA
+O fear not him, Sir,
+I know he will not hurt you for my sake;
+I’le undertake to tye him to a hair,
+And lead him hither as my Pris’ner to you.
+
+DORINDA
+No, Sir, I’m as well as e’re I was in all my life,
+But that I cannot eat nor drink for thought of him.
+That dangerous man runs ever in my mind.
+
+PROSPERO
+Take heed, Dorinda, you may be deceiv’d;
+This Creature is of such a Salvage race,
+That no mild usage can reclaim his wildness;
+But, like a Lyon’s whelp bred up by hand,
+When least you look for’t, Nature will present
+The Image of his Fathers bloody Paws,
+Wherewith he purvey’d for his couching Queen;
+And he will leap into his native fury.
+
+PROSPERO
+The way to cure you, is no more to see him.
+
+DORINDA
+He cannot change from what I left him, Sir.
+
+PROSPERO
+But he may do you more harm hereafter.
+
+51
+
+52
+
+Dryden and Davenant
+
+PROSPERO
+You speak of him with too much passion; tell me
+(And on your duty tell me true, Dorinda)
+What past betwixt you and that horrid creature?
+DORINDA
+[100] How, horrid, Sir? if any else but you should call it so, indeed I should
+be angry.
+PROSPERO
+Go too! you are a foolish Girl; but answer to what I ask, what thought you
+when you saw it?
+DORINDA
+t first it star’d upon me and seem’d wild,
+And then I trembled, yet it look’d so lovely, that when
+I would have fled away, my feet seem’d fasten’d to the ground,
+Then it drew near, and with amazement askt
+To touch my hand; which, as a ransom for my life,
+I gave: but when he had it, with a furious gripe
+He put it to his mouth so eagerly, I was afraid he
+Would have swallow’d it.
+PROSPERO
+Well, what was his behaviour afterwards?
+DORINDA
+He on a sudden grew so tame and gentle,
+That he became more kind to me than you are;
+Then, Sir, I grew I know not how, and touching his hand
+Agen, my heart did beat so strong as I lackt breath
+To answer what he ask’d.
+
+The Tempest
+The Battels of thy Enemy, and ’tis one part of what
+I threatn’d thee, not to perceive thy danger.
+DORINDA
+[125] Danger, Sir?
+If he would hurt me, yet he knows not how:
+He hath no Claws, nor Teeth, nor Horns to hurt me,
+But looks about him like a Callow-bird
+Just straggl’d from the Nest: pray trust me, Sir,
+To go to him agen.
+PROSPERO
+Since you will venture,
+I charge you bear your self reserv’dly to him,
+Let him not dare to touch your naked hand,
+But keep at distance from him.
+DORINDA
+This is hard.
+PROSPERO
+It is the way to make him love you more;
+He will despise you if you grow too kind.
+DORINDA
+I’le struggle with my heart to follow this,
+But if I lose him by it, will you promise
+To bring him back agen?
+PROSPERO
+Fear not, Dorinda;
+But use him ill and he’l be yours for ever.
+
+PROSPERO
+You have been too fond, and I should chide you for it.
+
+DORINDA
+I hope you have not couzen’d me agen.
+
+DORINDA
+Then send me to that creature to be punisht.
+
+PROSPERO
+Now my designs are gathering to a head.
+My spirits are obedient to my charms.
+What, Ariel! my servant Ariel, where art thou?
+
+PROSPERO
+Poor Child! thy passion like a lazy Ague
+Has seiz’d thy blood, instead of striving thou humour’st
+And feed’st thy languishing disease: thou fight’st
+
+53
+
+ARIEL
+What wou’d my potent Master? here I am.
+
+[Exit Dorinda.
+
+[Enter Ariel.
+
+54
+
+Dryden and Davenant
+
+PROSPERO
+Thou and thy meaner fellows your last service
+Did worthily perform, and I must use you in such another
+[150] Work: how goes the day?
+ARIEL
+On the fourth, my Lord, and on the sixth you said our work should cease.
+PROSPERO
+And so it shall;
+And thou shalt have the open air at freedom.
+ARIEL
+Thanks my great Lord.
+PROSPERO
+But tell me first, my spirit,
+How fares the Duke, my Brother, and their followers?
+ARIEL
+Confin’d together, as you gave me order,
+In the Lime-Grove which weather-fends your Cell;
+Within that Circuit up and down they wander,
+But cannot stir one step beyond their compass.
+PROSPERO
+How do they bear their sorrows?
+ARIEL
+The two Dukes appear like men distracted, their
+Attendants brim-full of sorrow mourning over ’em;
+But chiefly, he you term’d the good Gonzalo:
+His tears run down his Beard, like Winter-drops
+From Eaves of Reeds, your Vision did so work ’em,
+That if you now beheld ’em, your affections
+Would become tender.
+PROSPERO
+Dost thou think so, Spirit?
+ARIEL
+Mine would, Sir, were I humane.
+
+The Tempest
+
+PROSPERO
+And mine shall:
+Hast thou, who art but air, a touch, a feeling of their
+Afflictions, and shall not I (a man like them, one
+[175] Who as sharply relish passions as they) be kindlier
+Mov’d than thou art? though they have pierc’d
+Me to the quick with injuries, yet with my nobler
+Reason ’gainst my fury I will take part;
+The rarer action is in virtue than in vengeance.
+Go, my Ariel, refresh with needful food their
+Famish’d bodies. With shows and cheerful
+Musick comfort ’em.
+ARIEL
+Presently, Master.
+PROSPERO
+With a twinckle, Ariel.
+ARIEL
+Before you can say come and go,
+And breath twice, and cry so; so,
+Each spirit tripping on his toe,
+Shall bring ’em meat with mop and moe,
+Do you love me, Master, I, or no?
+PROSPERO
+Dearly, my dainty Ariel, but stay, spirit;
+What is become of my Slave Caliban,
+And Sycorax his Sister?
+ARIEL
+Potent Sir!
+They have cast off your service, and revolted
+To the wrack’d Mariners, who have already
+Parcell’d your Island into Governments.
+PROSPERO
+No matter, I have now no need of ’em;
+But, spirit, now I stay thee on the Wing;
+Haste to perform what I have given in charge:
+[200] But see they keep within the bounds I set ’em.
+
+55
+
+56
+
+Dryden and Davenant
+
+The Tempest
+
+57
+
+And calm your troubled thoughts.
+ARIEL
+I’le keep ’em in with Walls of Adamant,
+Invisible as air to mortal Eyes,
+But yet unpassable.
+PROSPERO
+Make hast then.
+
+Ariel invisible Sings.
+
+[Exeunt severally.
+Enter Alonzo, Antonio, Gonzalo.
+
+GONZALO
+I am weary, and can go no further, Sir,
+My old Bones ake, here’s a Maze trod indeed
+Through forth-rights and Meanders, by your patience
+I needs must rest.
+ALONZO
+Old Lord, I cannot blame thee, who am my self seiz’d
+With a weariness to the dulling of my Spirits:
+Sit and rest.
+Even here I will put off my hope, and keep it no longer
+For my Flatterers: he is drown’d whom thus we
+Stray to find, and the Sea mocks our frustrate
+Search on Land: well! let him go.
+
+ALONZO
+This voice speaks comfort to us.
+ANTONIO
+Wou’d ’twere come; there is no Musick in a Song
+To me, my stomack being empty.
+[They sit.
+
+GONZALO
+O for a heavenly Vision of Boyl’d,
+Bak’d, and Roasted!
+Enter eight fat Spirits, with Cornu-Copia in their hands.
+
+ANTONIO
+Do not for one repulse forego the purpose
+Which you resolv’d t’effect.
+ALONZO
+I’m faint with hunger, and must despair
+Of food, Heav’n hath incens’d the Seas and
+Shores against us for our crimes.
+What! Harmony agen, my good friends, heark!
+
+Dry those eyes which are o’reflowing,
+All your storms are over-blowing:
+While you in this Isle are bideing,
+You shall feast without providing:
+Every dainty you can think of,
+Ev’ry Wine which you would drink of,
+Shall be yours; all want shall shun you,
+Ceres blessing so is on you.
+
+ALONZO
+Are these plump shapes sent to deride our hunger?
+
+[Musick.
+
+GONZALO
+No, no: it is a Masque of fatten’d Devils, the
+Burgo-Masters of the lower Region.
+O for a Collop of that large-haunch’d Devil
+Who went out last!
+
+ANTONIO
+I fear some other horrid apparition.
+Give us kind Keepers, Heaven I beseech thee!
+
+ANTONIO GOING TO THE DOOR
+My Lord, the Duke, see yonder.
+A Table, as I live, set out and furnisht
+With all varieties of Meats and fruits.
+
+GONZALO
+’Tis chearful Musick, this, unlike the first;
+[225] And seems as ’twere meant t’unbend our cares,
+
+ALONZO
+’Tis so indeed, but who dares tast this feast,
+Which Fiends provide, perhaps, to poyson us?
+
+[Dance and vanish.
+
+58
+
+Dryden and Davenant
+
+The Tempest
+
+GONZALO
+[250] Why that dare I; if the black Gentleman be so ill-natur’d, he may do his
+pleasure.
+ANTONIO
+’Tis certain we must either eat or famish,
+I will encounter it, and feed.
+
+SYCORAX
+No, my dread Lord.
+TRINCALO
+It shall be a Whistle for our first Babe, and when the next Shipwrack puts
+me again to swimming, I’le dive to get a [275] Coral to it.
+SYCORAX
+I’le be thy pretty child, and wear it first.
+
+ALONZO
+If both resolve, I will adventure too.
+GONZALO
+Then good my Lord, make haste,
+And say no Grace before it, I beseech you,
+Because the meat will vanish strait, if, as I fear,
+An evil Spirit be our Cook.
+
+59
+
+TRINCALO
+I prithee sweet Babby do not play the wanton, and cry for my goods e’re I’m
+dead. When thou art my Widow, thou shalt have the Devil and all.
+SYCORAX
+May I not have the other fine thing?
+[Exeunt.
+
+Enter Trincalo and Caliban.
+
+TRINCALO
+This is a sucking-Bottle for young Trincalo.
+
+TRINCALO
+Brother Monster, welcome to my private Palace.
+But where’s thy Sister, is she so brave a Lass?
+
+CALIBAN
+This is a God a mighty liquor, I did but drink thrice of it, and it hath made
+me glad e’re since.
+
+CALIBAN
+In all this Isle there are but two more, the Daughters of the Tyrant
+Prospero; and she is bigger than ’em both. O here she comes; now thou
+may’st judge thy self, my Lord.
+[Enter Sycorax.
+
+SYCORAX
+He is the bravest God I ever saw.
+
+TRINCALO
+She’s monstrous fair indeed. Is this to be my Spouse? well she’s Heir of all
+this Isle (for I will geld Monster). The Trincalos, like other wise men, have
+anciently us’d to marry for Estate more than for beauty.
+SYCORAX
+I prithee let me have the gay thing about thy neck, and that which dangles
+at thy wrist.
+[Sycorax points to his Bosens Whistle, and his Bottle.
+TRINCALO
+My dear Blobber-lips; this, observe my Chuck, is a badge of my Sea-Office;
+my fair Fuss, thou dost not know it.
+
+CALIBAN
+You must be kind to him, and he will love you.
+I prithee speak to her, my Lord, and come neerer her.
+TRINCALO
+By this light, I dare not till I have drank: I must
+Fortifie my stomack first.
+SYCORAX
+I shall have all his fine things when I’m a Widow.
+[Pointing to his Bottle, and Bosens Whistle.
+CALIBAN
+I, but you must be kind and kiss him then.
+
+60
+
+Dryden and Davenant
+
+TRINCALO
+My Brother Monster is a rare Pimp.
+SYCORAX
+I’le hug thee in my arms, my Brother’s God.
+TRINCALO
+Think o’thy soul Trincalo, thou art a dead man if this kindness continue.
+CALIBAN
+And he shall get thee a young Sycorax, wilt thou not, my Lord?
+TRINCALO
+Indeed I know not how, they do no such thing in my Country.
+SYCORAX
+I’le shew thee how: thou shalt get me twenty Sycoraxes; [300] and I’le get
+thee twenty Calibans.
+TRINCALO
+Nay, if they are got, she must do’t all her self, that’s certain.
+SYCORAX
+And we will tumble in cool Plashes, and the soft Fens, Where we will make
+us Pillows of Flags and Bull-rushes.
+CALIBAN
+My Lord, she would be loving to thee, and thou wilt not let her.
+TRINCALO
+Ev’ry thing in its season, Brother Monster; but you must counsel her; fair
+Maids must not be too forward.
+SYCORAX
+My Brother’s God, I love thee; prithee let me come to thee.
+TRINCALO
+Subject Monster, I charge thee keep the Peace between us.
+CALIBAN
+Shall she not taste of that immortal Liquor?
+
+The Tempest
+
+61
+
+TRINCALO
+Umph! that’s another question: for if she be thus flipant in her Water, what
+will she be in her Wine? [Enter Ariel (invisible) and changes the Bottle
+which stands upon the ground.
+ARIEL
+There’s Water for your Wine.
+TRINCALO
+Well! since it must be so.
+How do you like it now, my Queen that
+Must be?
+
+[Exit Ariel.
+
+[Gives her the Bottle.
+[She drinks.
+
+SYCORAX
+Is this your heavenly liquor? I’le bring you to a River of the same.
+TRINCALO
+Wilt thou so, Madam Monster? what a mighty Prince shall I be then? I
+would not change my Dukedom to be great Turk Trincalo.
+SYCORAX
+[325] This is the drink of Frogs.
+TRINCALO
+Nay, if the Frogs of this Island drink such, they are the merryest Frogs in
+Christendom.
+CALIBAN
+She does not know the virtue of this liquor:
+I prithee let me drink for her.
+TRINCALO
+Well said, Subject Monster.
+CALIBAN
+My Lord, this is meer water.
+TRINCALO
+’Tis thou hast chang’d the Wine then, and drunk it up,
+Like a debauch’d Fish as thou art. Let me see’t,
+I’le taste it my self. Element! meer Element! as I live.
+It was a cold gulp such as this which kill’d my famous
+Predecessor old Simon the King.
+
+[Caliban drinks.
+
+62
+
+Dryden and Davenant
+
+CALIBAN
+How does thy honour? prithee be not angry, and I will lick thy shoe.
+TRINCALO
+I could find in my heart to turn thee out of my Dominions for a liquorish
+Monster.
+CALIBAN
+O my Lord, I have found it out; this must be done by one of Prospero’s
+spirits.
+TRINCALO
+There’s nothing but malice in these Devils, I never lov’d ’em from my
+Childhood. The Devil take ’em, I would it had bin holy-water for their sakes.
+SYCORAX
+Will not thy mightiness revenge our wrongs, on this great Sorcerer? I know
+thou wilt, for thou art valiant.
+TRINCALO
+In my Sack, Madam Monster, as any flesh alive.
+SYCORAX
+hen I will cleave to thee.
+TRINCALO
+[350] Lovingly said, in troth: now cannot I hold out against her. This Wifelike virtue of hers, has overcome me.
+SYCORAX
+Shall I have thee in my arms?
+TRINCALO
+Thou shalt have Duke Trincalo in thy arms:
+But prithee be not too boistrous with me at first;
+Do not discourage a young beginner.
+[They embrace.
+Stand to your Arms, my Spouse,
+And subject Monster;
+[Ent. Steph. Must. Vent.
+The Enemy is come to surprise us in our Quarters.
+You shall know Rebels that I’m marry’d to a Witch,
+And we have a thousand Spirits of our party.
+
+The Tempest
+
+63
+
+STEPHANO
+Hold! I ask a Truce; I and my Vice-Roys
+(Finding no food, and but a small remainder of Brandy)
+Are come to treat a peace betwixt us,
+Which may be for the good of both Armies,
+Therefore Trincalo disband.
+TRINCALO
+Plain Trincalo, methinks I might have been a Duke in your mouth, I’le not
+accept of your Embassy without my title.
+STEPHANO
+A title shall break no squares betwixt us:
+Vice-Roys, give him his stile of Duke, and treat with him,
+Whilst I walk by in state.
+[Ventoso and Mustacho bow whilst
+Trincalo puts on his Cap.
+MUSTACHO
+Our Lord and Master, Duke Stephano, has sent us
+In the first place to demand of you, upon what
+Ground you make war against him, having no right
+[375] To Govern here, as being elected only by
+Your own voice.
+TRINCALO
+To this I answer, that having in the face of the world
+Espous’d the lawful Inheritrix of this Island,
+Queen Blouze the first, and having homage done me,
+By this hectoring Spark her Brother, from these two
+I claim a lawful Title to this Island.
+MUSTACHO
+Who, that Monster? he a Hector?
+CALIBAN
+Lo! how he mocks me, wilt thou let him, my Lord?
+VENTOSO
+Lord! quoth he: the Monster’s a very natural.
+SYCORAX
+Lo! lo! agen; bite him to death I prithee.
+
+64
+
+Dryden and Davenant
+
+TRINCALO
+Vice-Roys keep good tongues in your heads
+I advise you, and proceed to your business, for I have
+Other affairs to dispatch of more importance betwixt
+Queen Slobber-Chops and my self.
+MUSTACHO
+First and foremost, as to your claim that you have answer’d.
+VENTOSO
+But second and foremost, we demand of you,
+That if we make a peace, the Butt also may be
+Comprehended in the Treaty.
+
+The Tempest
+
+TRINCALO
+Subject Monster! stand your Sentry before my Cellar; my Queen and I will
+enter and feast our selves within.
+SYCORAX
+May I not marry that other King and his two subjects, to help you anights?
+TRINCALO
+What a careful Spouse have I? well! if she does
+Cornute me, the care is taken.
+When underneath my power my foes have truckl’d,
+To be a Prince, who would not be a Cuckold?
+Enter Ferdinand, and Ariel (invisible.)
+
+MUSTACHO
+Is the Butt safe, Duke Trincalo?
+TRINCALO
+The Butt is partly safe: but to comprehend it in the Treaty, or indeed to
+make any Treaty, I cannot with my honour without your submission. These
+two, and the Spirits under me, stand likewise upon their honours.
+CALIBAN
+Keep the liquor for us, my Lord, and let them drink [400] Brine, for I will not
+show ’em the quick freshes of the Island.
+STEPHANO
+I understand, being present, from my Embassadors what your resolution
+is, and ask an hours time of deliberation, and so I take our leave; but first
+I desire to be entertain’d at your Butt, as becomes a Prince, and his
+Embassadors.
+TRINCALO
+That I refuse, till acts of Hostility be ceas’d.
+These Rogues are rather Spies than Embassadors;
+I must take heed of my Butt. They come to pry
+Into the secrets of my Dukedom.
+VENTOSO
+Trincalo you are a barbarous Prince, and so farewel.
+[Exeunt Steph. Must. Vent.
+
+65
+
+FERDINAND
+How far will this invisible Musician conduct
+My steps? he hovers still about me, whether
+For good or ill I cannot tell, nor care I much;
+For I have been so long a slave to chance, that
+I’m as weary of her flatteries as her frowns,
+But here I am—
+ARIEL
+ere I am.
+FERDINAND
+[425] Hah! art thou so? the Spirit’s turn’d an Eccho:
+This might seem pleasant, could the burthen of my
+Griefs accord with any thing but sighs.
+And my last words, like those of dying men
+Need no reply. Fain I would go to shades, where
+Few would wish to follow me.
+ARIEL
+Follow me.
+FERDINAND
+This evil Spirit grows importunate,
+But I’le not take his counsel.
+ARIEL
+Take his counsel.
+
+[Exeunt.
+
+66
+
+Dryden and Davenant
+
+FERDINAND
+It may be the Devil’s counsel. I’le never take it.
+ARIEL
+Take it.
+FERDINAND
+I will discourse no more with thee,
+Nor follow one step further.
+ARIEL
+One step further.
+FERDINAND
+This must have more importance than an Eccho.
+Some Spirit tempts to a precipice.
+I’le try if it will answer when I sing
+My sorrows to the murmurs of this Brook.
+He sings.
+Go thy way.
+ARIEL
+Go thy way.
+FERDINAND
+Why should’st thou stay?
+ARIEL
+Why should’st thou stay?
+FERDINAND
+Where the Winds whistle, and where the streams creep,
+Under yond Willow-tree, fain would I sleep.
+[450] Then let me alone,
+For ’tis time to be gone.
+ARIEL.
+For ’tis time to be gone.
+
+The Tempest
+
+67
+
+FERDINAND
+What cares or pleasures can be in this Isle?
+Within this desart place
+There lives no humane race;
+Fate cannot frown here, nor kind fortune smile.
+ARIEL
+Kind Fortune smiles, and she
+Has yet in store for thee
+Some strange felicity.
+Follow me, follow me,
+And thou shalt see.
+FERDINAND
+I’le take thy word for once;
+Lead on Musician.
+
+[Exeunt and return.
+
+Scene changes, and discovers Prospero and Miranda.
+PROSPERO
+Advance the fringed Curtains of thine Eyes, and say what thou seest yonder.
+MIRANDA
+Is it a Spirit? Lord! how it looks about! Sir, I confess it carries a brave form.
+But ’tis a Spirit.
+PROSPERO
+No Girl, it eats and sleeps, and has such senses as we have. This young
+Gallant, whom thou see’st, was in the wrack; were he not somewhat stain’d
+with grief (beauty’s worst Cancker) thou might’st call him a goodly person;
+he has lost his company, and strays about to find ’em.
+MIRANDA
+I might call him a thing divine, for nothing natural I [475] ever saw so noble.
+PROSPERO
+It goes on as my Soul prompts it: Spirit, fine Spirit. I’le free thee within two
+days for this.
+FERDINAND
+She’s sure the Mistress, on whom these airs attend. Fair Excellence, if, as
+your form declares, you are divine, be pleas’d to instruct me how you will
+be worship’d; so bright a beauty cannot sure belong to humane kind.
+
+68
+
+Dryden and Davenant
+
+MIRANDA
+I am, like you, a mortal, if such you are.
+FERDINAND
+My language too! O Heavens! I am the best of them who speak this speech,
+when I’m in my own Country.
+PROSPERO
+How, the best? what wert thou if the Duke of Savoy heard thee?
+FERDINAND
+As I am now, who wonders to hear thee speak of Savoy: he does hear me,
+and that he does I weep, my self am Savoy, whose fatal Eyes (e’re since at
+ebbe) beheld the Duke my Father wrackt.
+MIRANDA
+Alack! for pity.
+PROSPERO
+At the first sight they have chang’d Eyes, dear Ariel,
+I’le set thee free for this—young, Sir, a word.
+With hazard of your self you do me wrong.
+MIRANDA
+Why speaks my Father so urgently?
+This is the third man that e’re I saw, the first whom
+E’re I sigh’d for, sweet Heaven move my Father
+To be inclin’d my way.
+FERDINAND
+O! if a Virgin! and your affection not gone forth,
+[500] I’le make you Mistress of Savoy.
+PROSPERO
+Soft, Sir! one word more.
+They are in each others powers, but this swift
+Bus’ness I must uneasie make, lest too light
+Winning make the prize light—one word more.
+Thou usurp’st the name not due to thee, and hast
+Put thy self upon this Island as a spy to get the
+Government from me, the Lord of it.
+
+The Tempest
+
+69
+
+FERDINAND
+No, as I’m a man.
+MIRANDA
+There’s nothing ill can dwell in such a Temple,
+If th’ Evil Spirit hath so fair a house,
+Good things will strive to dwell with it.
+PROSPERO
+No more. Speak not you for him, he’s a Traytor,
+Come! thou art my Pris’ner and shalt be in
+Bonds. Sea-water shalt thou drink, thy food
+Shall be the fresh-Brook-Muscles, wither’d Roots,
+And Husks, wherein the Acorn crawl’d; follow.
+FERDINAND
+No, I will resist such entertainment
+Till my Enemy has more power.
+[He draws, and is charm’d from moving.
+MIRANDA
+O dear Father! make not too rash a tryal
+Of him, for he’s gentle and not fearful.
+PROSPERO
+My child my Tutor! put thy Sword up Traytor,
+Who mak’st a show, but dar’st not strike: thy
+Conscience is possest with guilt. Come from
+Thy Ward, for I can here disarm thee with
+[525] This Wand, and make thy Weapon drop.
+MIRANDA
+’Beseech you Father.
+PROSPERO
+Hence: hang not on my Garment.
+MIRANDA
+Sir, have pity,
+I’le be his Surety.
+PROSPERO
+Silence! one word more shall make me chide thee,
+
+70
+
+Dryden and Davenant
+
+The Tempest
+
+If not hate thee: what, an advocate for an
+Impostor? sure thou think’st there are no more
+Such shapes as his?
+To the most of men this is a Caliban,
+And they to him are Angels.
+
+PROSPERO TO MIRANDA
+Go in that way, speak not a word for him:
+I’le separate you.
+
+[Exit Miranda.
+
+FERDINAND
+As soon thou may’st divide the waters
+When thou strik’st ’em, which pursue thy bootless blow,
+And meet when ’tis past.
+
+MIRANDA
+My affections are then most humble,
+I have no ambition to see a goodlier man.
+
+PROSPERO
+Go practise your Philosophy within,
+And if you are the same you speak your self,
+Bear your afflictions like a Prince—That Door
+Shews you your Lodging.
+
+PROSPERO
+Come on, obey:
+Thy Nerves are in their infancy agen, and have
+No vigour in them.
+FERDINAND
+So they are:
+My Spirits, as in a Dream, are all bound up:
+My Father’s loss, the weakness which I feel,
+The wrack of all my friends, and this man’s threats,
+To whom I am subdu’d, would seem light to me,
+Might I but once a day through my Prison behold this maid:
+All corners else o’th’ Earth let liberty make use of:
+I have space enough in such a Prison.
+
+FERDINAND
+’Tis in vain to strive, I must obey.
+
+PROSPERO
+It works: come on:
+[550] Thou hast done well, fine Ariel: follow me.
+Heark what thou shalt more do for me.
+
+HIPPOLITO ENTRING
+’Tis Prospero’s voice.
+
+PROSPERO
+This goes as I would wish it.
+Now for my second care, Hippolito:
+I shall not need to chide him for his fault,
+His passion is become his punishment.
+Come forth, Hippolito.
+
+[Whispers Ariel.
+
+MIRANDA
+Be of comfort!
+My Father’s of a better nature, Sir,
+Than he appears by speech: this is unwonted
+Which now came from him.
+
+PROSPERO
+You think you have receiv’d no hurt.
+
+[Exit Ariel.
+
+[Exit. Ferd.
+
+[Enter Hippolito.
+
+PROSPERO
+[575] Hippolito! I know you now expect I should severely chide you: you
+have seen a woman in contempt of my commands.
+HIPPOLITO
+But, Sir, you see I am come off unharm’d;
+I told you, that you need not doubt my courage.
+
+PROSPERO
+Thou shalt be as free as Mountain Winds:
+But then exactly do all points of my command.
+ARIEL
+To a Syllable.
+
+71
+
+HIPPOLITO
+No, none Sir.
+Try me agen, when e’re you please I’m ready:
+I think I cannot fear an Army of ’em.
+
+72
+
+Dryden and Davenant
+
+PROSPERO
+How much in vain it is to bridle Nature!
+Well! what was the success of your encounter?
+
+The Tempest
+HIPPOLITO
+Whether we will or no, Sir, who shall make us?
+[Aside.
+
+HIPPOLITO
+Sir, we had none, we yielded both at first,
+For I took her to mercy, and she me.
+PROSPERO
+But are you not much chang’d from what you were?
+HIPPOLITO
+Methinks I wish and wish! for what I know not,
+But still I wish—yet if I had that woman,
+She, I believe, could tell me what I wish for.
+PROSPERO
+What wou’d you do to make that Woman yours?
+HIPPOLITO
+I’d quit the rest o’th’ world that I might live alone with
+Her, she never should be from me.
+We too would sit and look till our eyes ak’d.
+PROSPERO
+You’d soon be weary of her.
+HIPPOLITO
+O, Sir, never.
+PROSPERO
+ut you’l grow old and wrinckl’d, as you see me now,
+And then you will not care for her.
+HIPPOLITO
+You may do what you please, but, Sir, we two can never [600] possibly grow
+old.
+PROSPERO
+You must, Hippolito.
+
+73
+
+PROSPERO
+Nature, which made me so.
+HIPPOLITO
+But you have told me her works are various;
+She made you old, but she has made us young.
+PROSPERO
+Time will convince you,
+Mean while be sure you tread in honours paths,
+That you may merit her, and that you may not want
+Fit occasions to employ your virtue, in this next
+Cave there is a stranger lodg’d, one of your kind,
+Young, of a noble presence, and as he says himself,
+Of Princely birth, he is my Pris’ner and in deep
+Affliction, visit, and comfort him; it will become you.
+HIPPOLITO
+It is my duty, Sir.
+
+[Exit Hippolito.
+
+PROSPERO
+True, he has seen a woman, yet he lives, perhaps I took the moment of his
+birth amiss, perhaps my Art it self is false: on what strange grounds we
+build our hopes and fears, mans life is all a mist, and in the dark, our
+fortunes meet us.
+If Fate be not, then what can we foresee,
+Or how can we avoid it, if it be?
+If by free-will in our own paths we move,
+How are we bounded by Decrees above?
+Whether we drive, or whether we are driven,
+If ill ’tis ours, if good the act of Heaven.
+[Exit Prospero.
+Enter Hippolito and Ferdinand.
+Scene, a Cave.
+FERDINAND
+[625] Your pity, noble youth, doth much oblige me,
+Indeed ’twas sad to lose a Father so.
+
+74
+
+Dryden and Davenant
+
+The Tempest
+
+HIPPOLITO
+I, and an only Father too, for sure you said
+You had but one.
+FERDINAND
+But one Father! he’s wondrous simple!
+
+75
+
+FERDINAND
+They indeed are dangerous, for since I came I have beheld one here, whose
+beauty pierc’d my heart.
+
+[Aside.
+
+HIPPOLITO
+Are such misfortunes frequent in your world,
+Where many men live?
+
+HIPPOLITO
+[650] How did she pierce? you seem not hurt.
+FERDINAND
+Alas! the wound was made by her bright eyes,
+And festers by her absence.
+But to speak plainer to you, Sir, I love her.
+
+FERDINAND
+Such we are born to.
+But gentle youth, as you have question’d me,
+So give me leave to ask you, what you are?
+
+HIPPOLITO
+Now I suspect that love’s the very thing, that I feel too! pray tell me truly,
+Sir, are you not grown unquiet since you saw her?
+
+HIPPOLITO
+Do not you know?
+
+FERDINAND
+I take no rest.
+
+FERDINAND
+How should I?
+
+HIPPOLITO
+Just, just my disease.
+Do you not wish you do not know for what?
+
+HIPPOLITO
+I well hop’d I was a man, but by your ignorance
+Of what I am, I fear it is not so:
+Well, Prospero! this is now the second time
+You have deceiv’d me.
+FERDINAND
+Sir, there is no doubt you are a man:
+But I would know of whence?
+HIPPOLITO
+Why, of this world, I never was in yours.
+FERDINAND
+ave you a Father?
+HIPPOLITO
+I was told I had one, and that he was a man, yet I have bin so much
+deceived, I dare not tell’t you for a truth; but I have still been kept a
+Prisoner for fear of women.
+
+FERDINAND
+O no! I know too well for what I wish.
+HIPPOLITO
+There, I confess, I differ from you, Sir:
+But you desire she may be always with you?
+FERDINAND
+I can have no felicity without her.
+HIPPOLITO
+Just my condition! alas, gentle Sir,
+I’le pity you, and you shall pity me.
+FERDINAND
+I love so much, that if I have her not,
+I find I cannot live.
+HIPPOLITO
+How! do you love her?
+
+76
+
+Dryden and Davenant
+
+The Tempest
+
+And would you have her too? that must not be:
+For none but I must have her.
+
+77
+
+Perhaps, sweet youth, when you behold her,
+You will find you do not love her.
+
+FERDINAND
+But perhaps, we do not love the same:
+All beauties are not pleasing alike to all.
+
+HIPPOLITO
+I find already I love, because she is another Woman.
+FERDINAND
+You cannot love two women, both at once.
+
+HIPPOLITO
+Why are there more fair Women, Sir,
+Besides that one I love?
+FERDINAND
+[675] That’s a strange question. There are many more besides that beauty
+which you love.
+
+HIPPOLITO
+Sure ’tis my duty to love all who do resemble
+Her whom I’ve already seen. I’le have as many as I can,
+That are so good, and Angel-like, as she I love.
+And will have yours.
+
+HIPPOLITO
+I will have all of that kind, if there be a hundred of ’em.
+
+FERDINAND
+Pretty youth, you cannot.
+
+FERDINAND
+But noble youth, you know not what you say.
+
+HIPPOLITO
+I can do any thing for that I love.
+
+HIPPOLITO
+Sir, they are things I love, I cannot be without ’em:
+O, how I rejoyce! more women!
+
+FERDINAND
+[700] I may, perhaps, by force restrain you from it.
+
+FERDINAND
+Sir, if you love you must be ty’d to one.
+
+HIPPOLITO
+Why do so if you can. But either promise me
+To love no Woman, or you must try your force.
+
+HIPPOLITO
+Ty’d! how ty’d to her?
+
+FERDINAND
+I cannot help it, I must love.
+
+FERDINAND
+To love none but her.
+
+HIPPOLITO
+Well you may love, for Prospero taught me friendship too: you shall love
+me and other men if you can find ’em, but all the Angel-women shall be
+mine.
+
+HIPPOLITO
+But, Sir, I find it is against my Nature.
+I must love where I like, and I believe I may like all,
+All that are fair: come! bring me to this Woman,
+For I must have her.
+FERDINAND
+His simplicity
+Is such that I can scarce be angry with him.
+
+[Aside.
+
+FERDINAND
+I must break off this conference, or he will
+Urge me else beyond what I can bear.
+Sweet youth! some other time we will speak
+Further concerning both our loves; at present
+I am indispos’d with weariness and grief,
+And would, if you are pleas’d, retire a while.
+
+78
+
+Dryden and Davenant
+
+The Tempest
+
+79
+
+PROSPERO
+This may secure Hippolito from that dark danger which my art forebodes;
+for friendship does provide a double strength t’oppose th’assaults of
+fortune.
+[Exit Prospero.
+
+HIPPOLITO
+Some other time be it; but, Sir, remember
+That I both seek and much intreat your friendship,
+For next to Women, I find I can love you.
+
+Enter Ferdinand.
+FERDINAND
+I thank you, Sir, I will consider of it.
+HIPPOLITO
+This Stranger does insult and comes into my
+World to take those heavenly beauties from me,
+Which I believe I am inspir’d to love,
+And yet he said he did desire but one.
+He would be poor in love, but I’le be rich:
+I now perceive that Prospero was cunning;
+For when he frighted me from woman-kind,
+Those precious things he for himself design’d.
+
+[Exit Ferdinand.
+
+MIRANDA
+Sir! my Lord? where are you?
+
+[Exit.
+
+FERDINAND
+O heavenly Creature! ten times more gentle, than your Father’s cruel, how
+on a sudden all my griefs are vanish’d!
+
+Enter Prospero, and Miranda.
+
+MIRANDA
+You shall be obey’d in all things.
+PROSPERO
+Be earnest to unite their very souls.
+MIRANDA
+I shall endeavour it.
+
+FERDINAND
+Is it your voice, my Love? or do I dream?
+MIRANDA
+Speak softly, it is I.
+
+ACT IV.
+
+PROSPERO
+YOUR suit has pity in’t, and has prevail’d.
+Within this Cave he lies, and you may see him:
+But yet take heed; let Prudence be your Guide;
+You must not stay, your visit must be short.
+One thing I had forgot; insinuate into his mind
+A kindness to that youth, whom first you saw;
+I would have friendship grow betwixt’em.
+
+FERDINAND
+To be a Pris’ner where I dearly love, is but a double tye; a Link of fortune
+joyn’d to the chain of love; but not to see her, and yet to be so near her,
+there’s the hardship; I feel my self as on a Rack, stretch’d out, and nigh the
+ground, on which I might have ease, yet cannot reach it.
+
+MIRANDA
+I come to help you to support your griefs.
+[She’s going.
+FERDINAND
+[25] While I stand gazing thus, and thus have leave to touch your hand, I do
+not envy freedom.
+MIRANDA
+Heark! heark! is’t not my Father’s voice I hear? I fear he calls me back again
+too soon.
+FERDINAND
+Leave fear to guilty minds: ’tis scarce a virtue when it is paid to Heaven.
+MIRANDA
+But there ’tis mix’d with love, and so is mine; yet I may fear, for I am guilty
+when I disobey my Fathers will in loving you too much.
+
+80
+
+Dryden and Davenant
+
+The Tempest
+
+81
+
+which you can ever pay him.
+FERDINAND
+But you please Heav’n in disobeying him,
+Heav’n bids you succour Captives in distress.
+MIRANDA
+How do you bear your Prison?
+FERDINAND
+’Tis my Palace while you are here, and love and silence wait upon our
+wishes; do but think we chuse it, and ’tis what we would chuse.
+MIRANDA
+I’m sure what I would.
+But how can I be certain that you love me?
+Look to’t; for I will dye when you are false.
+I’ve heard my Father tell of Maids, who dy’d,
+And haunted their false Lovers with their Ghosts.
+FERDINAND
+Your Ghost must take another form to fright me,
+This shape will be too pleasing: do I love you?
+O Heav’n! O Earth! bear witness to this sound,
+If I prove false—
+MIRANDA
+Oh hold, you shall not swear;
+[50] For Heav’n will hate you if you prove forsworn.
+
+FERDINAND
+You mean your Father: do not think his usage can make me hate him; when
+he gave you being, he then did that which cancell’d all these wrongs.
+MIRANDA
+I mean not him, for that was a request which if you love I should not need
+to urge.
+FERDINAND
+Is there another whom I ought to love?
+And love him for your sake?
+MIRANDA
+Yes such a one, who for his sweetness and his goodly shape, (if I, who am
+unskill’d in forms, may judge) I think can scarce be equall’d: ’Tis a youth,
+a Stranger too as you are.
+FERDINAND
+Of such a graceful feature, and must I for your sake love?
+MIRANDA
+Yes, Sir, do you scruple to grant the first request I ever made? he’s wholly
+unacquainted with the world, and wants [75] your conversation. You should
+have compassion on so meer a stranger.
+FERDINAND
+Those need compassion whom you discommend, not whom you praise.
+
+FERDINAND
+Did I not love, I could no more endure this undeserved captivity, then I
+could wish to gain my freedom with the loss of you.
+
+MIRANDA
+I only ask this easie tryal of you.
+
+MIRANDA
+I am a fool to weep at what I’m glad of: but I have a suit to you, and that,
+Sir, shall be now the only tryal of your love.
+
+FERDINAND
+Perhaps it might have easier bin
+If you had never ask’d it.
+
+FERDINAND
+Y’ave said enough, never to be deny’d, were it my life; for you have far
+o’rebid the price of all that humane life is worth.
+
+MIRANDA
+I cannot understand you; and methinks am loth
+To be more knowing.
+
+MIRANDA
+Sir, ’tis to love one for my sake, who for his own deserves all the respect
+
+FERDINAND
+He has his freedom, and may get access, when my
+
+82
+
+Dryden and Davenant
+
+The Tempest
+
+Confinement makes me want that blessing.
+I his compassion need, and not he mine.
+
+MIRANDA
+I fear I have offended you, and yet I meant no harm:
+But if you please to hear me—
+Heark! Sir! now I am sure my Father comes, I know
+His steps; dear Love retire a while, I fear
+I’ve stay’d too long.
+
+MIRANDA
+If that be all you doubt, trust me for him.
+He has a melting heart, and soft to all the Seals
+Of kindness; I will undertake for his compassion.
+
+[A noise within.
+
+FERDINAND
+Too long indeed, and yet not long enough: oh jealousie!
+Oh Love! how you distract me?
+[Exit Ferdinand
+
+FERDINAND
+O Heavens! would I were sure I did not need it.
+MIRANDA
+Come, you must love him for my sake: you shall.
+
+MIRANDA
+He appears displeas’d with that young man, I know
+Not why: but, till I find from whence his hate proceeds,
+I must conceal it from my Fathers knowledge,
+For he will think that guiltless I have caus’d it;
+And suffer me no more to see my Love.
+[Enter Prospero.
+
+FERDINAND
+Must I for yours, and cannot for my own?
+Either you do not love, or think that I do not:
+But when you bid me love him, I must hate him.
+
+PROSPERO
+Now I have been indulgent to your wish,
+You have seen the Prisoner?
+
+MIRANDA
+Have I so far offended you already,
+That he offends you only for my sake?
+Yet sure you would not hate him, if you saw
+Him as I have done, so full of youth and beauty.
+FERDINAND
+O poyson to my hopes!
+[100] When he did visit me, and I did mention this
+eauteous Creature to him, he did then tell me
+He would have her.
+
+83
+
+MIRANDA
+[125] Yes.
+
+[Aside.
+
+PROSPERO
+And he spake to you?
+MIRANDA
+He spoke; but he receiv’d short answers from me.
+
+MIRANDA
+Alas, what mean you?
+
+PROSPERO
+How like you his converse?
+
+FERDINAND
+It is too plain: like most of her frail Sex, she’s false,
+But has not learnt the art to hide it;
+Nature has done her part, she loves variety:
+Why did I think that any Woman could be innocent,
+Because she’s young? No, no, their Nurses teach them
+Change, when with two Nipples they divide their
+Liking.
+
+MIRANDA
+At second sight
+A man does not appear so rare a Creature.
+PROSPERO ASIDE
+I find she loves him much because she hides it.
+Love teaches cunning even to innocence,
+And where he gets possession, his first work is to
+Dig deep within a heart, and there lie hid,
+
+84
+
+Dryden and Davenant
+
+And like a Miser in the dark to feast alone.
+But tell me, dear Miranda, how does he suffer
+His imprisonment?
+MIRANDA
+I think he seems displeas’d.
+PROSPERO
+O then ’tis plain his temper is not noble,
+For the brave with equal minds bear good
+And evil fortune.
+MIRANDA
+O, Sir, but he’s pleas’d again so soon
+That ’tis not worth your noting.
+PROSPERO
+To be soon displeas’d and pleas’d so suddenly again,
+Does shew him of a various froward Nature.
+MIRANDA
+The truth is, Sir, he was not vex’d at all, but only
+Seem’d to be so.
+PROSPERO
+If he be not and yet seems angry, he is a dissembler,
+Which shews the worst of Natures.
+MIRANDA
+[150] Truly, Sir, the man has faults enough; but in my conscience that’s none
+of ’em. He can be no dissembler.
+PROSPERO ASIDE
+How she excuses him, and yet desires that I should judge her heart
+indifferent to him? well, since his faults are many, I am glad you love him
+not.
+MIRANDA
+’Tis like, Sir, they are many,
+But I know none he has, yet let me often see him
+And I shall find ’em all in time.
+
+The Tempest
+
+85
+
+PROSPERO
+I’le think on’t.
+Go in, this is your hour of Orizons.
+MIRANDA ASIDE
+Forgive me, truth, for thus disguising thee; if I can make him think I do not
+love the stranger much, he’ll let me see him oftner.
+[Exit Miranda.
+PROSPERO
+Stay! stay—I had forgot to ask her what she has said
+Of young Hippolito: Oh! here he comes! and with him
+My Dorinda. I’le not be seen, let
+[Ent. Hippolito and Dorinda.
+Their loves grow in secret.
+[Exit Prospero.
+HIPPOLITO
+But why are you so sad?
+DORINDA
+But why are you so joyful?
+HIPPOLITO
+I have within me all, all the various Musick of
+The Woods. Since last I saw you I have heard brave news!
+I’le tell you, and make you joyful for me.
+DORINDA
+Sir, when I saw you first, I through my eyes drew
+Something in, I know not what it is;
+But still it entertains me with such thoughts
+[175] As makes me doubtful whether joy becomes me.
+HIPPOLITO
+Pray believe me;
+As I’m a man, I’le tell you blessed news.
+I have heard there are more Women in the World,
+As fair as you are too.
+DORINDA
+Is this your news? you see it moves not me.
+HIPPOLITO
+And I’le have ’em all.
+
+86
+
+Dryden and Davenant
+
+The Tempest
+
+DORINDA
+What will become of me then?
+
+DORINDA
+She is my Sister, and therefore I must love her:
+But you cannot love both of us.
+
+HIPPOLITO
+I’le have you too.
+But are not you acquainted with these Women?
+
+HIPPOLITO
+I warrant you I can:
+Oh that you had more Sisters!
+
+DORINDA
+I never saw but one.
+
+DORINDA
+ou may love her, but then I’le not love you.
+
+HIPPOLITO
+s there but one here?
+This is a base poor world, I’le go to th’ other;
+I’ve heard men have abundance of ’em there.
+But pray where is that one Woman?
+
+HIPPOLITO
+O but you must;
+One is enough for you, but not for me.
+
+DORINDA
+Who, my Sister?
+HIPPOLITO
+Is she your Sister? I’m glad o’that: you shall help me to her, and I’le love
+you for’t.
+[Offers to take her hand.
+DORINDA
+Away! I will not have you touch my hand.
+My Father’s counsel which enjoyn’d reservedness,
+Was not in vain I see.
+HIPPOLITO
+What makes you shun me?
+DORINDA
+You need not care, you’l have my Sisters hand.
+HIPPOLITO
+Why, must not he who touches hers touch yours?
+DORINDA
+You mean to love her too.
+HIPPOLITO
+[200] Do not you love her?
+Then why should not I do so?
+
+DORINDA
+My Sister told me she had seen another;
+A man like you, and she lik’d only him;
+Therefore if one must be enough for her,
+He is that one, and then you cannot have her.
+HIPPOLITO
+If she like him, she may like both of us.
+
+[Aside.
+
+DORINDA
+But how if I should change and like that man?
+Would you be willing to permit that change?
+HIPPOLITO
+No, for you lik’d me first.
+DORINDA
+So you did me.
+HIPPOLITO
+But I would never have you see that man;
+I cannot bear it.
+DORINDA
+I’le see neither of you.
+
+87
+
+88
+
+Dryden and Davenant
+
+HIPPOLITO
+Yes, me you may, for we are now acquainted;
+But he’s the man of whom your Father warn’d you:
+O! he’s a terrible, huge, monstrous creature,
+I am but a Woman to him.
+
+The Tempest
+
+89
+
+Another: all the Creatures of the Rivers and
+The Woods are so.
+
+[Enter Ferdinand.
+
+FERDINAND
+O! well encounter’d, you are the happy man!
+Y’ have got the hearts of both the beauteous Women.
+
+DORINDA
+[225] I will see him,
+Except you’l promise not to see my Sister.
+
+HIPPOLITO
+How! Sir? pray, are you sure on’t?
+
+HIPPOLITO
+Yes for your sake I needs must see your Sister.
+
+FERDINAND
+One of ’em charg’d me to love you for her sake.
+
+DORINDA
+ut she’s a terrible, huge Creature too; if I were not
+Her Sister she would eat me; therefore take heed.
+
+HIPPOLITO
+[250] Then I must have her.
+FERDINAND
+No, not till I am dead.
+
+HIPPOLITO
+I heard that she was fair, and like you.
+
+HIPPOLITO
+How dead? what’s that? but whatsoe’re it be
+I long to have her.
+
+DORINDA
+No, indeed, she’s like my Father, with a great Beard,
+’Twould fright you to look on her,
+Therefore that man and she may go together,
+They are fit for no body but one another.
+
+FERDINAND
+Time and my grief may make me dye.
+
+HIPPOLITO LOOKING IN
+Yonder he comes with glaring eyes, fly! fly! before he sees you.
+DORINDA
+Must we part so soon?
+
+FERDINAND
+I see your ignorance;
+And therefore will instruct you in my meaning.
+The Woman, whom I love, saw you and lov’d you.
+Now, Sir, if you love her you’l cause my death.
+
+HIPPOLITO
+Y’are a lost Woman if you see him.
+DORINDA
+I would not willingly be lost, for fear you
+Should not find me. I’le avoid him.
+HIPPOLITO
+She fain would have deceived me, but I know her
+Sister must be fair, for she’s a Woman;
+All of a Kind that I have seen are like to one
+
+HIPPOLITO
+But for a friend you should make haste; I ne’re ask’d
+Any thing of you before.
+
+[Exit Dorinda.
+
+HIPPOLITO
+Besure I’le do’t then.
+FERDINAND
+But I am your friend;
+And I request you that you would not love her.
+
+90
+
+Dryden and Davenant
+
+The Tempest
+
+HIPPOLITO
+When friends request unreasonable things,
+Sure th’are to be deny’d: you say she’s fair,
+And I must love all who are fair; for, to tell
+You a secret, Sir, which I have lately found
+Within my self; they all are made for me.
+
+HIPPOLITO
+I have not yet consider’d what is right, but, Sir,
+I know my inclinations are to love all Women:
+And I have been taught that to dissemble what I
+Think is base. In honour then of truth, I must
+Declare that I do love, and I will see your Woman.
+
+FERDINAND
+That’s but a fond conceit: you are made for one, and one for you.
+
+FERDINAND
+Wou’d you be willing I should see and love your
+Woman, and endeavour to seduce her from that
+Affection which she vow’d to you?
+
+HIPPOLITO
+You cannot tell me, Sir,
+I know I’m made for twenty hundred Women.
+(I mean if there so many be i’th’ World)
+So that if once I see her I shall love her.
+FERDINAND
+[275] Then do not see her.
+HIPPOLITO
+Yes, Sir, I must see her.
+For I wou’d fain have my heart beat again,
+Just as it did when I first saw her Sister.
+FERDINAND
+I find I must not let you see her then.
+HIPPOLITO
+How will you hinder me?
+FERDINAND
+By force of Arms.
+HIPPOLITO
+By force of Arms?
+My Arms perhaps may be as strong as yours.
+FERDINAND
+He’s still so ignorant that I pity him, and fain
+Would avoid force: pray, do not see her, she was
+Mine first; you have no right to her.
+
+HIPPOLITO
+I wou’d not you should do it, but if she should
+Love you best, I cannot hinder her.
+But, Sir, for fear she shou’d, I will provide against
+The worst, and try to get your Woman.
+FERDINAND
+But I pretend no claim at all to yours;
+[300] Besides you are more beautiful than I,
+And fitter to allure unpractis’d hearts.
+Therefore I once more beg you will not see her.
+HIPPOLITO
+I’m glad you let me know I have such beauty.
+If that will get me Women, they shall have it
+As far as e’re ’twill go: I’le never want ’em.
+FERDINAND
+Then since you have refused this act of friendship,
+Provide your self a Sword; for we must fight.
+HIPPOLITO
+A Sword, what’s that?
+FERDINAND
+Why such a thing as this.
+HIPPOLITO
+What should I do with it?
+
+91
+
+92
+
+Dryden and Davenant
+
+The Tempest
+
+FERDINAND
+You must stand thus, and push against me,
+While I push at you, till one of us fall dead.
+
+HIPPOLITO
+I’le warrant you I’le push you.
+
+93
+
+[Exeunt severally.
+
+Enter Trincalo, Caliban, Sycorax.
+HIPPOLITO
+This is brave sport,
+But we have no Swords growing in our World.
+
+CALIBAN
+My Lord, I see ’em coming yonder.
+
+FERDINAND
+What shall we do then to decide our quarrel?
+
+TRINCALO
+Who?
+
+HIPPOLITO
+We’ll take the Sword by turns, and fight with it.
+
+CALIBAN
+The starv’d Prince, and his two thirsty Subjects,
+That would have our Liquor.
+
+FERDINAND
+Strange ignorance! you must defend your life,
+And so must I: but since you have no Sword
+Take this; for in a corner of my Cave
+I found a rusty one, perhaps ’twas his who keeps
+Me Pris’ner here: that I will fit:
+When next we meet prepare your self to fight.
+
+[Gives him his sword.
+
+HIPPOLITO
+Make haste then, this shall ne’re be yours agen.
+I mean to fight with all the men I meet, and
+[325] When they are dead, their Women shall be mine.
+FERDINAND
+I see you are unskilful; I desire not to take
+Your life, but if you please we’ll fight on
+These conditions; He who first draws bloud,
+Or who can take the others Weapon from him,
+Shall be acknowledg’d as the Conquerour,
+And both the Women shall be his.
+
+TRINCALO
+If thou wert a Monster of parts I would make thee
+My Master of Ceremonies, to conduct ’em in.
+The Devil take all Dunces, thou hast lost a brave
+Employment by not being a Linguist, and for want
+Of behaviour.
+SYCORAX
+My Lord, shall I go meet ’em? I’le be kind to all of ’em,
+Just as I am to thee.
+TRINCALO
+No, that’s against the fundamental Laws of my Dukedom: you are in a high
+place, Spouse, and must give good Example. Here they come, we’ll put on
+the gravity of Statesmen, [350] and be very dull, that we may be held wise.
+Enter Stephano, Ventoso, Mustacho.
+VENTOSO
+Duke Trincalo, we have consider’d.
+
+HIPPOLITO
+Agreed,
+And ev’ry day I’le fight for two more with you.
+
+TRINCALO
+Peace, or War.
+
+FERDINAND
+But win these first.
+
+MUSTACHO
+Peace, and the Butt.
+
+94
+
+Dryden and Davenant
+
+The Tempest
+
+STEPHANO
+I come now as a private person, and promise to live peaceably under your
+Government.
+TRINCALO
+You shall enjoy the benefits of Peace; and the first Fruits of it, amongst all
+civil Nations, is to be drunk for joy: Caliban skink about.
+STEPHANO
+I long to have a Rowse to her Graces health, and to the Haunse in Kelder,
+or rather Haddock in Kelder, for I guess it will be half Fish.
+[Aside.
+TRINCALO
+Subject Stephano here’s to thee; and let old quarrels be drown’d in this
+draught.
+[Drinks.
+STEPHANO
+Great Magistrate, here’s thy Sisters health to thee.
+
+95
+
+SYCORAX
+Shall we call? and thou shalt hear them in the Air.
+TRINCALO
+I accept the motion: let us have our Mother-in-Law’s Legacy immediately.
+CALIBAN SINGS.
+We want Musick, we want Mirth,
+Up Dam and cleave the Earth,
+We have now no Lords that wrong us,
+Send thy merry Sprights among us.
+
+[Musick heard.
+
+TRINCALO
+What a merry Tyrant am I, to have my
+Musick and pay nothing for’t? come hands, hands,
+Let’s lose no time while the Devil’s in the
+Humour.
+
+[A Dance.
+
+[Drinks to Caliban.
+
+SYCORAX
+He shall not drink of that immortal liquor,
+My Lord, let him drink water.
+TRINCALO
+sweet heart, you must not shame your self to day.
+Gentlemen Subjects, pray bear with her good Huswifry:
+She wants a little breeding, but she’s hearty.
+MUSTACHO
+Ventoso here’s to thee. It is not better to pierce the Butt, than to quarrel
+and pierce one anothers bellies?
+VENTOSO
+Let it come Boy.
+TRINCALO
+Now wou’d I lay greatness aside, and shake my heels, if I had but Musick.
+CALIBAN
+[375] O my Lord! my Mother left us in her Will a hundred Spirits to attend
+us, Devils of all forts, some great roaring Devils, and some little singing
+Sprights.
+
+TRINCALO
+Enough, enough: now to our Sack agen.
+VENTOSO
+The Bottle’s drunk.
+MUSTACHO
+Then the Bottle’s a weak shallow fellow if it be drunk first.
+TRINCALO
+Caliban, give Bottle the belly full agen.
+STEPHANO
+May I ask your Grace a question? pray is that hectoring Spark, as you call’d
+him, flesh or fish?
+TRINCALO
+Subject I know not, but he drinks like a fish.
+STEPHANO
+O here’s the Bottle agen; he has made a good voyage,
+Come, who begins a Brindis to the Duke?
+TRINCALO
+I’le begin it my self: give me the Bottle; ’tis my
+
+[Enter Caliban.
+
+96
+
+Dryden and Davenant
+
+to drink first; Stephano, give me thy hand,
+Thou hast been a Rebel, but here’s to thee,
+Prithee why should we quarrel? shall I swear
+Two Oaths? by Bottle, and by Butt I love thee:
+In witness whereof I drink soundly.
+
+The Tempest
+
+[400] Prerogative
+
+[Drinks.
+
+STEPHANO
+Your Grace shall find there’s no love lost,
+For I will pledge you soundly.
+TRINCALO
+Thou hast been a false Rebel, but that’s all one;
+Pledge my Grace faithfully.
+STEPHANO
+I will pledge your Grace Up se Dutch.
+TRINCALO
+But thou shalt not pledge me before I have drunk agen, would’st thou take
+the Liquor of Life out of my hands; I see thou art a piece of a Rebel still, but
+here’s to thee, now thou shalt have it.
+[Stephano drinks.
+VENTOSO
+We loyal Subjects may be choak’d for any drink we can get.
+TRINCALO
+Have patience good people, you are unreasonable, you’d be drunk as soon
+as I. Ventoso you shall have your time, but you must give place to Stephano.
+MUSTACHO
+Brother Ventoso, I am afraid we shall lose our places.
+The Duke grows fond of Stephano, and will declare him
+Vice-Roy.
+STEPHANO
+I ha’ done my worst at your Graces Bottle.
+TRINCALO
+Then the Folks may have it. Caliban
+Go to the Butt, and tell me how it sounds:
+[425] Peer Stephano, dost thou love me?
+
+97
+
+STEPHANO
+I love your Grace and all your Princely Family.
+TRINCALO
+’Tis no matter if thou lov’st me; hang my Family:
+Thou art my Friend, prithee tell me what
+Thou think’st of my Princess?
+STEPHANO
+I look on her as on a very noble Princess.
+TRINCALO
+Noble? indeed she had a Witch to her Mother, and the Witches are of great
+Families in Lapland, but the Devil was her Father, and I have heard of the
+Mounsor De-Viles in France; but look on her beauty, is she a fit Wife for
+Duke Trincalo? mark her behaviour too, she’s tippling yonder with the
+serving-men.
+STEPHANO
+An please your Grace she’s somewhat homely, but that’s no blemish in a
+Princess. She is virtuous.
+TRINCALO
+Umph! virtuous! I am loth to disparage her;
+But thou art my Friend, canst thou be close?
+STEPHANO
+As a stopt Bottle, an’t please your Grace.
+[Enter Caliban agen with a Bottle.
+TRINCALO
+Why then I’le tell thee, I found her an hour ago under an Elder-tree, upon
+a sweet Bed of Nettles, singing Tory, Rory, and Ranthum, Scantum, with
+her own natural Brother.
+STEPHANO
+O Jew! make love in her own Tribe?
+TRINCALO
+But ’tis no matter, to tell thee true, I marry’d her to be a great man and so
+forth: but make no words on’t, for I care not who knows it, and so here’s to
+thee agen, give me the Bottle, Caliban! did you knock the Butt? how does
+it sound?
+
+98
+
+Dryden and Davenant
+
+TRINCALO
+I fear the Butt begins to rattle in the throat and is departing: give me the
+Bottle.
+[Drinks.
+
+[Steph. whispers Sycorax.
+
+SYCORAX
+But did he tell you so?
+STEPHANO
+He said you were as ugly as your Mother, and that he Marry’d you only to
+get possession of the Island.
+SYCORAX
+My Mothers Devils fetch him for’t.
+STEPHANO
+And your Fathers too, hem! skink about his Graces health agen. O if you
+would but cast an eye of pity upon me—
+SYCORAX
+I will cast two eyes of pity on thee, I love thee more than Haws, or Blackberries, I have a hoard of Wildings in the Moss, my Brother knows not of
+’em; But I’le bring thee where they are.
+STEPHANO
+Trincalo was but my man when time was.
+SYCORAX
+Wert thou his God, and didst thou give him Liquor?
+STEPHANO
+I gave him Brandy and drunk Sack my self; wilt thou leave him, and thou
+shalt be my Princess?
+SYCORAX
+If thou canst make me glad with this Liquor.
+
+99
+
+STEPHANO
+I warrant thee we’ll ride into the Country where it grows.
+
+CALIBAN
+[450] It sounds as though it had a noise within.
+
+MUSTACHO
+A short life and a merry I say.
+
+The Tempest
+
+SYCORAX
+How wilt thou carry me thither?
+STEPHANO
+Upon a Hackney-Devil of thy Mothers.
+TRINCALO
+What’s that you will do? hah! I hope you have not betray’d me? How does
+my Pigs-nye?
+[To Sycorax.
+SYCORAX
+[475] Be gone! thou shalt not be my Lord, thou say’st
+I’m ugly.
+TRINCALO
+Did you tell her so—hah! he’s a Rogue, do not believe him chuck.
+STEPHANO
+The foul words were yours: I will not eat ’em for you.
+TRINCALO
+I see if once a Rebel, then ever a Rebel. Did I receive thee into grace for this?
+I will correct thee with my Royal Hand.
+[Strikes Stephano.
+SYCORAX
+Dost thou hurt my love?
+
+[Flies at Trincalo.
+
+TRINCALO
+Where are our Guards? Treason, Treason!
+[Vent. Must. Calib. run betwixt.
+VENTOSO
+Who took up Arms first, the Prince or the People?
+TRINCALO
+This false Traytor has corrupted the Wife of my Bosom.
+[Whispers Mustacho hastily.
+Mustacho strike on my side, and thou shalt be my Vice-Roy.
+
+100
+
+Dryden and Davenant
+
+The Tempest
+
+MUSTACHO
+I’m against Rebels! Ventoso obey your Vice-Roy.
+
+FERDINAND
+Sir, you are wounded.
+
+VENTOSO
+You a Vice-Roy?
+
+HIPPOLITO
+No.
+
+[They two fight off from the rest.
+
+STEPHANO
+Hah! Hector Monster! do you stand neuter?
+
+FERDINAND
+Believe your blood.
+
+CALIBAN
+Thou would’st drink my Liquor, I will not help thee.
+
+HIPPOLITO
+I feel no hurt, no matter for my blood.
+
+SYCORAX
+’Twas his doing that I had such a Husband, but I’le claw him.
+
+FERDINAND
+Remember our Conditions.
+
+Syc. and Calib. fight, Syc. beating him off the Stage.
+TRINCALO
+The whole Nation is up in Arms, and shall I stand idle?
+[Trincalo beats off Stephano to the door. Exit Stephano.
+I’le not pursue too far, For fear the Enemy should rally agen and surprise
+my Butt in the Cittadel; well, I must be rid of my Lady Trincalo, she will be
+in the fashion else; first Cuckold her Husband, and then sue for a
+separation, to get Alimony.
+[Exit.
+
+101
+
+HIPPOLITO
+I’le not leave, till my Sword hits you too.
+[Hip. presses on, Ferd. retires and wards.
+FERDINAND
+I’m loth to kill you, you are unskilful, Sir.
+HIPPOLITO
+You beat aside my Sword, but let it come as near
+As yours, and you shall see my skill.
+
+Enter Ferdinand, Hippolito, (with their swords drawn.)
+FERDINAND
+[500] Come, Sir, our Cave afford no choice of place,
+But the ground’s firm and even: are you ready?
+HIPPOLITO
+As ready as your self, Sir.
+FERDINAND
+You remember on what conditions we must fight?
+Who first receives a Wound is to submit.
+HIPPOLITO
+Come, come, this loses time, now for the
+Women, Sir.
+[They fight a little, Ferdinand hurts him.
+
+FERDINAND
+You faint for loss of blood, I see you stagger,
+Pray, Sir, retire.
+HIPPOLITO
+No! I will ne’re go back—
+Methinks the Cave turns round, I cannot find—
+FERDINAND
+Your eyes begin to dazle.
+HIPPOLITO
+Why do you swim so, and dance about me?
+Stand but still till I have made one thrust. [Hippolito thrusts and falls.
+FERDINAND
+O help, help, help!
+
+102
+
+Dryden and Davenant
+
+The Tempest
+
+Unhappy man! what have I done?
+HIPPOLITO
+[525] I’m going to a cold sleep, but when I wake
+I’le fight agen. Pray stay for me.
+FERDINAND
+He’s gone! he’s gone! O stay sweet lovely Youth!
+Help, help!
+
+[Swounds.
+
+[Enter Prospero.
+
+PROSPERO
+What dismal noise is that?
+FERDINAND
+O see, Sir, see!
+What mischief my unhappy hand has wrought.
+PROSPERO
+Alas! how much in vain doth feeble Art endeavour
+To resist the will of Heaven?
+He’s gone for ever; O thou cruel Son of an
+Inhumane Father! all my designs are ruin’d
+And unravell’d by this blow.
+No pleasure now is left me but Revenge.
+
+[Rubs Hippolito.
+
+ARIEL
+Here, at thy beck, my Lord.
+PROSPERO
+I, now thou com’st, when Fate is past and not to be
+Recall’d. Look there, and glut the malice of
+Thy Nature, for as thou art thy self, thou
+Canst not be but glad to see young Virtue
+Nipt i’th’ Blossom.
+
+ARIEL
+My Lord, the Being high above can witness
+I am not glad, we Airy Spirits are not of temper
+[550] So malicious as the Earthy,
+But of a Nature more approaching good.
+For which we meet in swarms, and often combat
+Betwixt the Confines of the Air and Earth.
+PROSPERO
+Why did’st thou not prevent, at least foretell
+This fatal action then?
+ARIEL
+Pardon, great Sir,
+I meant to do it, but I was forbidden
+By the ill Genius of Hippolito,
+Who came and threatn’d me if I disclos’d it,
+To bind me in the bottom of the Sea,
+Far from the lightsome Regions of the Air,
+(My native fields) above a hundred years.
+PROSPERO
+I’le chain thee in the North for thy neglect,
+Within the burning Bowels of Mount Heila,
+I’le sindge thy airy wings with sulph’rous flames,
+And choak thy tender nostrils with blew smoak,
+At ev’ry Hick-up of the belching Mountain
+Thou shalt be lifted up to taste fresh Air,
+And then fall down agen.
+
+FERDINAND
+Sir, if you knew my innocence—
+PROSPERO
+Peace, peace,
+Can thy excuses give me back his life?
+What Ariel! sluggish spirit, where art thou?
+
+103
+
+[Enter Ariel.
+
+ARIEL
+Pardon, dread Lord.
+PROSPERO
+No more of pardon than just Heav’n intends thee
+Shalt thou e’re find from me: hence! flye with speed,
+Unbind the Charms which hold this Murtherer’s
+Father, and bring him with my Brother streight
+[575] Before me.
+ARIEL
+Mercy, my potent Lord, and I’le outfly thy thought.
+
+[Exit Ariel.
+
+104
+
+Dryden and Davenant
+
+FERDINAND
+O Heavens! what words are those I heard?
+Yet cannot see who spoke ’em: sure the Woman
+Whom I lov’d was like this, some aiery Vision.
+PROSPERO
+No, Murd’rer, she’s, like thee, of mortal mould,
+But much too pure to mix with thy black Crimes;
+Yet she had faults and must be punish’d for’em.
+Miranda and Dorinda! where are ye?
+The will of Heaven’s accomplish’d: I have
+Now no more to fear, and nothing left to hope,
+Now you may enter.
+[Enter Miranda and Dorinda.
+MIRANDA
+My Love! is it permitted me to see you once again?
+PROSPERO
+You come to look your last; I will
+For ever take him from your Eyes.
+But, on my blessing, speak not, nor approach him.
+DORINDA
+Pray, Father, is not this my Sisters man?
+He has a noble form; but yet he’s not so excellent
+As my Hippolito.
+PROSPERO
+Alas poor Girl, thou hast no man: look yonder;
+There’s all of him that’s left.
+DORINDA
+Why was there ever any more of him?
+He lies asleep, Sir, shall I waken him?
+[She kneels by Hippolito, and jogs him.
+FERDINAND
+Alas! he’s never to be wak’d agen.
+DORINDA
+My Love, my Love! will you not speak to me?
+[600] I fear you have displeas’d him, Sir, and now
+He will not answer me, he’s dumb and cold too,
+
+The Tempest
+
+105
+
+But I’le run streight, and make a fire to warm him.
+[Exit Dorinda running.
+Enter Alonzo, Gonzalo, Antonio. Ariel (invisible.)
+ALONZO
+Never were Beasts so hunted into toyls,
+As we have been pursu’d by dreadful shapes.
+But is not that my Son? O Ferdinand!
+If thou art not a Ghost, let me embrace thee.
+FERDINAND
+My Father! O sinister happiness! Is it
+Decreed I should recover you alive, just in that
+Fatal hour when this brave Youth is lost in Death,
+And by my hand?
+ANTONIO
+eaven! what new wonder’s this?
+GONZALO
+This Isle is full of nothing else.
+ALONZO
+I thought to dye, and in the walks above,
+Wand’ring by Star-light, to have sought thee out;
+But now I should have gone to Heaven in vain,
+Whilst thou art here behind.
+FERDINAND
+You must indeed in vain have gone thither
+To look for me. Those who are stain’d with such black
+Crimes as mine, come seldom there.
+PROSPERO
+And those who are, like him, all foul with guilt,
+More seldom upward go. You stare upon me as
+You n’ere had seen me; have fifteen years
+So lost me to your knowledge, that you retain
+No memory of Prospero?
+GONZALO
+[625] The good old Duke of Millain!
+
+106
+
+Dryden and Davenant
+
+The Tempest
+
+PROSPERO
+I wonder less, that thou Antonio know’st me not,
+Because thou did’st long since forget I was thy Brother,
+Else I never had bin here.
+
+ALONZO
+And think’st thou I or these will tamely stand
+To view the execution?
+[Lays hand upon his Sword.
+FERDINAND
+Hold, dear Father! I cannot suffer you
+T’ attempt against his life who gave her being
+Whom I love.
+
+ANTONIO
+Shame choaks my words.
+ALONZO
+And wonder mine.
+PROSPERO
+For you, usurping Prince,
+Know, by my Art, you shipwrackt on this Isle,
+Where, after I a while had punish’d you, my vengeance
+Wou’d have ended, I design’d to match that Son
+Of yours with this my Daughter.
+ALONZO
+Pursue it still, I am most willing to’t.
+PROSPERO
+So am not I. No marriages can prosper
+Which are with Murd’rers made; look on that Corps,
+This, whilst he liv’d, was young Hippolito, that
+Infant Duke of Mantua, Sir, whom you expos’d
+With me; and here I bred him up till that blood-thirsty
+Man, that Ferdinand—
+But why do I exclaim on him, when Justice calls
+To unsheath her Sword against his guilt?
+ALONZO
+What do you mean?
+PROSPERO
+To execute Heav’ns Laws.
+Here I am plac’d by Heav’n, here I am Prince,
+Though you have dispossess’d me of my Millain.
+Blood calls for blood; your Ferdinand shall dye,
+[650] And I in bitterness have sent for you
+To have the sudden joy of seeing him alive,
+And then the greater grief to see him dye.
+
+107
+
+[To Alonzo.
+
+PROSPERO
+Nay then appear my Guards—I thought no more to
+Use their aids; (I’m curs’d because I us’d it)
+[He stamps, and many Spirits appear.
+But they are now the Ministers of Heaven,
+Whilst I revenge this murder.
+ALONZO
+ave I for this found thee my Son, so soon agen
+To lose thee? Antonio, Gonzalo, speak for pity:
+He may hear you.
+ANTONIO
+I dare not draw that blood upon my self, by
+Interceding for him.
+GONZALO
+You drew this judgment down when you usurp’d
+That Dukedom which was this dead Prince’s right.
+ALONZO
+Is this a time t’upbraid me with my sins, when
+Grief lies heavy on me? y’are no more my friends,
+But crueller than he, whose sentence has
+Doom’d my Son to death.
+ANTONIO
+You did unworthily t’upbraid him.
+GONZALO
+And you do worse t’endure his crimes.
+
+108
+
+Dryden and Davenant
+
+The Tempest
+
+ANTONIO
+[675] Gonzalo we’ll meet no more as friends.
+
+DORINDA
+Dead, Sir, what’s that?
+
+GONZALO
+Agreed Antonio: and we agree in discord.
+
+PROSPERO
+His soul has left his body.
+
+FERDINAND TO MIRANDA
+Adieu my fairest Mistress.
+
+DORINDA
+When will it come agen?
+
+MIRANDA
+Now I can hold no longer; I must speak.
+Though I am loth to disobey you, Sir,
+Be not so cruel to the man I love,
+Or be so kind to let me suffer with him.
+
+PROSPERO
+O never, never!
+[700] He must be laid in Earth, and there consume.
+
+FERDINAND
+Recall that Pray’r, or I shall wish to live,
+Though death be all the mends that I can make.
+PROSPERO
+This night I will allow you, Ferdinand, to fit
+You for your Death, that Cave’s your Prison.
+ALONZO
+Ah, Prospero! hear me speak. You are a Father,
+Look on my age, and look upon his youth.
+PROSPERO
+No more! all you can say is urg’d in vain,
+I have no room for pity left within me.
+Do you refuse! help Ariel with your fellows
+To drive ’em in; Alonzo and his Son bestow in
+Yonder Cave, and here Gonzalo shall with
+Antonio lodge.
+[Spirits drive ’em in, as they are appointed.
+Enter Dorinda.
+DORINDA
+Sir, I have made a fire, shall he be warm’d?
+PROSPERO
+He’s dead, and vital warmth will ne’re return.
+
+109
+
+DORINDA
+He shall not lye in earth, you do not know
+How well he loves me: indeed he’l come agen;
+He told me he would go a little while,
+But promis’d me he would not tarry long.
+PROSPERO
+He’s murder’d by the man who lov’d your Sister.
+Now both of you may see what ’tis to break
+A Father’s precept; you would needs see men, and by
+That sight are made for ever wretched.
+Hippolito is dead, and Ferdinand must dye
+For murdering him.
+MIRANDA
+Have you no pity?
+PROSPERO
+Your disobedience has so much incens’d me, that
+I this night can leave no blessing with you.
+Help to convey the body to my Couch,
+Then leave me to mourn over it alone.
+[They bear off the body of Hippolito.
+Enter Miranda, and Dorinda again. Ariel behind ’em.
+ARIEL
+I’ve bin so chid for my neglect by Prospero,
+That I must now watch all and be unseen.
+
+110
+
+Dryden and Davenant
+
+The Tempest
+
+MIRANDA
+Sister, I say agen, ’twas long of you
+That all this mischief happen’d.
+
+DORINDA
+I, there’s your judgment. Your’s is the oldest
+Man I ever saw except it were my Father.
+
+DORINDA
+Blame not me for your own fault, your
+Curiosity brought me to see the man.
+
+MIRANDA
+Sister, no more. It is not comely in a Daughter,
+When she says her Father’s old.
+
+MIRANDA
+You safely might have seen him and retir’d, but
+You would needs go near him and converse, you may
+Remember my Father call’d me thence, and I call’d you.
+
+DORINDA
+But why do I stay here, whilst my cold Love
+Perhaps may want me?
+I’le pray my Father to make yours cold too.
+
+DORINDA
+[725] That was your envy, Sister, not your love;
+You call’d me thence, because you could not be
+Alone with him your self; but I am sure my
+Man had never gone to Heaven so soon, but
+That yours made him go.
+
+MIRANDA
+[750] Sister, I’e never sleep with you agen.
+
+[Crying.
+
+111
+
+DORINDA
+I’le never more meet in a Bed with you,
+But lodge on the bare ground and watch my Love.
+
+MIRANDA
+Sister I could not with that either of ’em shou’d
+Go to Heaven without us, but it was his fortune,
+And you must be satisfi’d?
+
+MIRANDA
+And at the entrance of that Cave I’le lye,
+And eccho to each blast of wind a sigh.
+[Exeunt severally, looking discontentedly on one another.
+
+DORINDA
+I’le not be satisfi’d: My Father says he’l make
+Your man as cold as mine is now, and when he
+Is made cold, my Father will not let you strive
+To make him warm agen.
+
+ARIEL
+Harsh discord reigns throughout this fatal Isle,
+At which good Angels mourn, ill Spirits smile;
+Old Prospero, by his Daughters rob’d of rest,
+Has in displeasure left ’em both unblest.
+Unkindly they abjure each others bed,
+To save the living, and revenge the dead.
+Alonzo and his Son are Pris’ners made,
+And good Gonzalo does their crimes upbraid.
+Antonio and Gonzalo disagree,
+And wou’d, though in one Cave, at distance be.
+The Seamen all that cursed Wine have spent,
+Which still renew’d their thirst of Government;
+And, wanting subjects for the food of Pow’r,
+Each wou’d to rule alone the rest devour.
+The Monsters Sycorax and Caliban
+More monstrous grow by passions learn’d from man.
+Even I not fram’d of warring Elements,
+
+MIRANDA
+In spight of you mine never shall be cold.
+DORINDA
+I’m sure ’twas he that made me miserable,
+And I will be reveng’d. Perhaps you think ’tis
+Nothing to lose a man.
+MIRANDA
+Yes, but there is some difference betwixt
+My Ferdinand, and your Hippolito.
+
+112
+
+Dryden and Davenant
+
+Partake and suffer in these discontents.
+Why shou’d a mortal by Enchantments hold
+In chains a spirit of ætherial mould?
+[775] Accursed Magick we our selves have taught,
+And our own pow’r has our subjection wrought!
+
+The Tempest
+
+113
+
+PROSPERO
+Why do you ask that question? you know I do.
+
+[Exit.
+
+MIRANDA
+Then you must be condemn’d for shedding his,
+And he who condemns you, must dye for shedding
+Yours, and that’s the way at last to leave none living.
+
+ACT V.
+Enter Prospero and Miranda.
+PROSPERO
+YOU beg in vain; I cannot pardon him,
+He has offended Heaven.
+MIRANDA
+Then let Heaven punish him.
+PROSPERO
+It will by me.
+MIRANDA
+Grant him at least some respite for my sake.
+PROSPERO
+I by deferring Justice should incense the Deity
+Against my self and you.
+
+PROSPERO
+The Argument is weak, but I want time
+To let you see your errours; retire, and, if you love him,
+Pray for him.
+
+[He’s going.
+
+MIRANDA
+O stay, Sir, I have yet more Arguments.
+PROSPERO
+But none of any weight.
+MIRANDA
+Have you not said you are his Judge?
+PROSPERO
+[25] ’Tis true, I am; what then?
+
+MIRANDA
+et I have heard you say, The Powers above are slow
+In punishing, and shou’d not you resemble them?
+
+MIRANDA
+And can you be his Executioner?
+If that be so, then all men may declare their
+Enemies in fault; and Pow’r without the Sword
+Of Justice, will presume to punish what e’re
+It calls a crime.
+
+PROSPERO
+The Powers above may pardon or reprieve,
+As Sovereign Princes may dispense with Laws,
+Which we, as Officers, must execute. Our Acts of grace
+To Criminals are Treason to Heavens prerogative.
+
+PROSPERO
+I cannot force Gonzalo or my Brother, much
+Less the Father to destroy the Son, it must
+Be then the Monster Caliban, and he’s not here,
+But Ariel strait shall fetch him.
+
+MIRANDA
+Do you condemn him for shedding blood?
+
+ARIEL
+My potent Lord, before thou call’st, I come,
+To serve thy will.
+
+[Enter Ariel.
+
+114
+
+Dryden and Davenant
+
+PROSPERO
+Then Spirit fetch me here my salvage Slave.
+ARIEL
+My Lord, it does not need.
+PROSPERO
+Art thou then prone to mischief, wilt thou be thy self the Executioner?
+ARIEL
+Think better of thy aiery Minister, who
+For thy sake, unbid, this night has flown
+O’re almost all the habitable World.
+PROSPERO
+But to what purpose was all thy diligence?
+ARIEL
+When I was chidden by my mighty Lord for my
+Neglect of young Hippolito, I went to view
+His body, and soon found his soul was but retir’d,
+Not sally’d out, and frighted lay at skulk in
+Th’ inmost corner of his scarce-beating heart.
+
+The Tempest
+Long e’re this hour had I been back again,
+But that a Storm took me returning back
+And flag’d my tender Wings.
+PROSPERO
+Thou shalt have rest my spirit,
+But hast thou search’d the wound?
+ARIEL
+My Lord I have, and ’twas in time I did it; for
+The soul stood almost at life’s door, all bare
+And naked, shivering like Boys upon a Rivers
+Bank, and loth to tempt the cold air, but I took
+Her and stop’d her in; and pour’d into his mouth
+The healing juice of vulnerary Herbs.
+PROSPERO
+Thou art my faithful servant.
+
+PROSPERO
+[50] Is he not dead?
+
+ARIEL
+[75] His only danger was his loss of blood, but now
+He’s wak’d, my Lord, and just this hour
+He must be dress’d again, as I have done it.
+Anoint the Sword which pierc’d him with this
+Weapon-Salve, and wrap it close from air till
+I have time to visit him again.
+
+ARIEL
+Hear me my Lord! I prun’d my wings, and, fitted for a journey, from the
+next Isles of our Hesperides, I gather’d Moly first, thence shot my self to
+Palestine, and watch’d the trickling Balm, which caught, I glided to the
+British Isles, and there the purple Panacea found.
+
+PROSPERO
+It shall be done, be it your task, Miranda, because your
+Sister is not present here, while I go visit your
+Dear Ferdinand, from whom I will a while conceal
+This news, that it may be more welcome.
+
+PROSPERO
+ll this to night?
+
+MIRANDA
+I obey you, and with a double duty, Sir: for now
+You twice have given me life.
+
+ARIEL
+All this, my Lord, I did,
+Nor was Hippolito’s good Angel wanting, who
+Climbing up the circle of the Moon,
+While I below got Simples for the Cure, went to
+Each Planet which o’re-rul’d those Herbs,
+And drew it’s virtue to increase their pow’r:
+
+115
+
+PROSPERO
+My Ariel, follow me.
+[Exeunt severally.
+[Hippolito discovered on a Couch, Dorinda by him.
+
+116
+
+Dryden and Davenant
+
+DORINDA
+How do you find your self?
+HIPPOLITO
+I’m somewhat cold, can you not draw me nearer
+To the Sun, I am too weak to walk?
+DORINDA
+My Love, I’le try.
+[She draws the chair nearer the Audience.
+I thought you never would have walk’d agen,
+They told me you were gone away to Heaven;
+Have you bin there?
+HIPPOLITO
+I know not where I was.
+DORINDA
+I will not leave you till you promise me you
+Will not dye agen.
+HIPPOLITO
+Indeed I will not.
+DORINDA
+You must not go to Heav’n unless we go together,
+[100] For I’ve heard my Father say that we must strive
+To be each others Guide, the way to it will else
+Be difficult, especially to those who are so young.
+But I much wonder what it is to dye.
+HIPPOLITO
+Sure ’tis to dream, a kind of breathless sleep
+When once the Soul’s gone out.
+DORINDA
+What is the Soul?
+HIPPOLITO
+A small blew thing that runs about within us.
+DORINDA
+Then I have seen it in a frosty morning run
+Smoaking from my mouth.
+
+The Tempest
+
+HIPPOLITO
+But if my soul had gone, it should have walk’d upon
+A Cloud just over you, and peep’d, and thence I would have
+Call’d you.
+DORINDA
+But I should not have heard you, ’tis so far.
+HIPPOLITO
+Why then I would have rain’d and snow’d upon you,
+And thrown down Hail-stones gently till I hit you,
+And made you look at least. But dear Dorinda
+What is become of him who fought with me?
+DORINDA
+O, I can tell you joyful news of him,
+My Father means to make him dye to day,
+For what he did to you.
+HIPPOLITO
+That must not be, my dear Dorinda; go and beg your
+Father, he may not dye, it was my fault he hurt me,
+I urg’d him to it first.
+DORINDA
+But if he live, he’ll never leave killing you.
+HIPPOLITO
+[125] O no! I just remember when I fell asleep I heard
+Him calling me a great way off; and crying over me as
+You wou’d do, besides we have no cause of quarrel now.
+DORINDA
+Pray how began your difference first?
+HIPPOLITO
+I fought with him for all the Women in the World.
+DORINDA
+hat hurt you had was justly sent from Heaven,
+For wishing to have any more but me.
+
+117
+
+118
+
+Dryden and Davenant
+
+The Tempest
+
+HIPPOLITO
+Indeed I think it was, but I repent it, the fault
+Was only in my blood, for now ’tis gone, I find
+I do not love so many.
+
+MIRANDA
+I cannot be unconstant, nor shou’d you.
+HIPPOLITO
+O my wound pains me.
+
+DORINDA
+In confidence of this, I’le beg my Father, that he
+May live, I’m glad the naughty blood, that made
+You love so many, is gone out.
+HIPPOLITO
+My Dear, go quickly, lest you come too late.
+Enter Miranda at the other door, with
+Hippolito’s Sword wrapt up.
+
+119
+
+MIRANDA
+I am come to ease you.
+
+[Exit Dor.
+
+HIPPOLITO
+Alas! I feel the cold air come to me,
+My wound shoots worse than ever.
+
+[She unwraps the Sword.
+
+[She wipes and anoints the Sword.
+
+MIRANDA
+Does it still grieve you?
+
+HIPPOLITO
+Who’s this who looks so fair and beautiful, as
+Nothing but Dorinda can surpass her? O!
+I believe it is that Angel, Woman,
+Whom she calls Sister.
+
+HIPPOLITO
+Now methinks there’s something laid just upon it.
+
+MIRANDA
+Sir, I am sent hither to dress your wound,
+How do you find your strength?
+
+HIPPOLITO
+Yes, yes, upon the sudden all the pain
+Is leaving me, sweet Heaven how I am eas’d!
+
+HIPPOLITO
+Fair Creature, I am faint with loss of blood.
+
+MIRANDA
+Do you find no ease?
+
+Enter Ferdinand and Dorinda to them.
+
+MIRANDA
+I’m sorry for’t.
+
+FERDINAND TO DORINDA
+Madam, I must confess my life is yours,
+I owe it to your generosity.
+
+HIPPOLITO
+Indeed and so am I, for if I had that blood, I then
+Should find a great delight in loving you.
+
+DORINDA
+I am o’rejoy’d my Father lets you live, and proud
+Of my good fortune, that he gave your life to me.
+
+MIRANDA
+But, Sir, I am anothers, and your love is given
+[150] Already to my Sister.
+
+MIRANDA
+How? gave his life to her!
+
+HIPPOLITO
+et I find that if you please I can love still a little.
+
+HIPPOLITO
+las! I think she said so, and he said he ow’d it
+To her generosity.
+
+120
+
+Dryden and Davenant
+
+FERDINAND
+But is not that your Sister with Hippolito?
+DORINDA
+So kind already?
+FERDINAND
+I came to welcome life, and I have met the
+Cruellest of deaths.
+HIPPOLITO
+My dear Dorinda with another man?
+DORINDA
+Sister, what bus’ness have you here?
+MIRANDA
+[175] You see I dress Hippolito.
+DORINDA
+Y’are very charitable to a Stranger.
+MIRANDA
+You are not much behind in charity, to beg a pardon
+For a man, whom you scarce ever saw before.
+DORINDA
+Henceforward let your Surgery alone, for I had
+Rather he should dye, than you should cure his wound.
+MIRANDA
+And I wish Ferdinand had dy’d before
+He ow’d his life to your entreaty.
+
+The Tempest
+
+121
+
+MIRANDA
+h Ferdinand! can you become inconstant?
+If I must lose you, I had rather death should take
+You from me than you take your self.
+FERDINAND
+And if I might have chose, I would have wish’d
+That death from Prospero, and not this from you.
+DORINDA
+I, now I find why I was sent away,
+That you might have my Sisters company.
+HIPPOLITO
+Dorinda, kill me not with your unkindness,
+This is too much, first to be false your self,
+And then accuse me too.
+FERDINAND
+We all accuse each other, and each one denys their guilt,
+I should be glad it were a mutual errour.
+And therefore first to clear my self from fault,
+[200] Madam, I beg your pardon, while I say I only love
+Your Sister.
+MIRANDA
+O blest word!
+I’m sure I love no man but Ferdinand.
+DORINDA
+Nor I, Heav’n knows, but my Hippolito.
+
+FERDINAND TO HIPPOLITO
+Sir, I’m glad you are so well recover’d, you
+Keep your humour still to have all Women.
+
+HIPPOLITO
+I never knew I lov’d so much, before I fear’d
+Dorinda’s constancy; but now I am convinc’d that
+I lov’d none but her, because none else can
+Recompence her loss.
+
+HIPPOLITO
+Not all, Sir, you except one of the number,
+Your new Love there, Dorinda.
+
+FERDINAND
+’Twas happy then you had this little tryal.
+But how we all so much mistook, I know not.
+
+[To Dorinda.
+
+122
+
+Dryden and Davenant
+
+MIRANDA
+I have only this to say in my defence: my Father sent
+Me hither, to attend the wounded Stranger.
+DORINDA
+And Hippolito sent me to beg the life of Ferdinand.
+FERDINAND
+From such small errours, left at first unheeded,
+Have often sprung sad accidents in love:
+But see, our Fathers and our friends are come
+To mix their joys with ours.
+Enter Prospero, Alonzo, Antonio, Gonzalo.
+ALONZO TO PROSPERO
+Let it no more be thought of, your purpose
+Though it was severe was just. In losing Ferdinand
+I should have mourn’d, but could not have complain’d.
+PROSPERO
+Sir, I am glad kind Heaven decreed it otherwise.
+DORINDA
+O wonder!
+How many goodly Creatures are there here!
+How beauteous mankind is!
+HIPPOLITO
+[225] O brave new World that has such people in’t!
+ALONZO TO FERDINAND
+Now all the blessings of a glad Father
+Compass thee about,
+And make thee happy in thy beauteous choice.
+GONZALO
+I’ve inward wept, or should have spoke e’re this.
+Look down sweet Heav’n, and on this Couple drop
+A blessed Crown, for it is you chalk’d out the
+Way which brought us hither.
+
+The Tempest
+ANTONIO
+Though penitence forc’d by necessity can scarce
+Seem real, yet dearest Brother I have hope
+My blood may plead for pardon with you, I resign
+Dominion, which ’tis true I could not keep,
+But Heaven knows too I would not.
+PROSPERO
+ll past crimes I bury in the joy of this
+Blessed day.
+ALONZO
+And that I may not be behind in justice, to this
+Young Prince I render back his Dukedom,
+And as the Duke of Mantua thus salute him.
+HIPPOLITO
+What is it that you render back, methinks
+You give me nothing.
+PROSPERO
+You are to be Lord of a great People,
+And o’re Towns and Cities.
+HIPPOLITO
+And shall these people be all Men and Women?
+GONZALO
+Yes, and shall call you Lord.
+HIPPOLITO
+Why then I’le live no longer in a Prison, but
+[250] Have a whole Cave to my self hereafter.
+PROSPERO
+And that your happiness may be compleat,
+I give you my Dorinda for your Wife, she shall
+Be yours for ever, when the Priest has made you one.
+HIPPOLITO
+How can he make us one, shall I grow to her?
+
+123
+
+124
+
+Dryden and Davenant
+
+PROSPERO
+By saying holy words you shall be joyn’d in marriage
+To each other.
+DORINDA
+I warrant you those holy words are charms.
+My Father means to conjure us together.
+PROSPERO TO HIS DAUGHTER
+My Ariel told me, when last night you quarrel’d,
+You said you would for ever part your beds,
+But what you threaten’d in your anger, Heaven
+Has turn’d to Prophecy.
+For you, Miranda, must with Ferdinand,
+And you, Dorinda, with Hippolito lye in
+One Bed hereafter.
+ALONZO
+And Heaven make those Beds still fruitful in
+Producing Children to bless their Parents
+Youth, and Grandsires age.
+MIRANDA TO DORINDA
+If Children come by lying in a Bed, I wonder you
+And I had none between us.
+DORINDA
+Sister it was our fault, we meant like fools
+To look ’em in the fields, and they it seems
+Are only found in Beds.
+HIPPOLITO
+I am o’rejoy’d that I shall have Dorinda in a Bed,
+[275] We’ll lye all night and day together there,
+And never rise again.
+FERDINAND ASIDE TO HIM
+Hippolito! you yet are ignorant of your great
+Happiness, but there is somewhat which for
+Your own and fair Dorinda’s sake I must instruct
+You in.
+
+The Tempest
+
+125
+
+HIPPOLITO
+Pray teach me quickly how Men and Women in your
+World make love, I shall soon learn
+I warrant you.
+[Enter Ariel driving in Steph. Trinc. Must. Vent. Calib. Syc.
+PROSPERO
+Why that’s my dainty Ariel, I shall miss thee,
+But yet thou shalt have freedom.
+GONZALO
+O look, Sir, look the Master and the Saylors—
+The Bosen too—my Prophecy is out, that if
+A Gallows were on land, that man could n’ere
+Be drown’d.
+ALONZO TO TRINCALO
+Now Blasphemy, what not one Oath ashore?
+Hast thou no mouth by land? why star’st thou so?
+TRINCALO
+What more Dukes yet, I must resign my Dukedom,
+But ’tis no matter, I was almost starv’d in’t.
+MUSTACHO
+Here’s nothing but wild Sallads without Oyl or Vinegar.
+STEPHANO
+The Duke and Prince alive! would I had now our gallant Ship agen, and
+were her Master, I’d willingly give all my Island for her.
+VENTOSO
+And I my Vice-Roy-ship.
+TRINCALO
+I shall need no hangman, for I shall e’en hang
+[300] My self, now my friend Butt has shed his
+Last drop of life. Poor Butt is quite departed.
+ANTONIO
+They talk like mad men.
+
+126
+
+Dryden and Davenant
+
+PROSPERO
+No matter, time will bring ’em to themselves, and
+Now their Wine is gone they will not quarrel.
+Your Ship is safe and tight, and bravely rigg’d,
+As when you first set Sail.
+ALONZO
+This news is wonderful.
+
+The Tempest
+
+PROSPERO
+[325] When the morn draws I’le bring you to your Ship,
+And promise you calm Seas and happy Gales.
+My Ariel, that’s thy charge: then to the Elements
+Be free, and fare thee well.
+ARIEL
+I’le do it Master.
+
+ARIEL
+Was it well done, my Lord?
+PROSPERO
+Rarely, my diligence.
+GONZALO
+But pray, Sir, what are those mishapen Creatures?
+PROSPERO
+Their Mother was a Witch, and one so strong
+She would controul the Moon, make Flows
+And Ebbs, and deal in her command without
+Her power.
+SYCORAX
+O Setebos! these be brave Sprights indeed.
+PROSPERO TO CALIBAN
+Go Sirrah to my Cell, and as you hope for
+Pardon, trim it up.
+CALIBAN
+Most carefully. I will be wise hereafter.
+What a dull fool was I to take those Drunkards
+For Gods, when such as these were in the world?
+PROSPERO
+Sir, I invite your Highness and your Train
+To my poor Cave this night; a part of which
+I will imploy in telling you my story.
+ALONZO
+No doubt it must be strangely taking, Sir.
+
+127
+
+Sings.
+Where the Bee sucks there suck I,
+In a Cowslips Bell, I lye,
+There I couch when Owls do cry,
+On the Swallows wing I flye
+After Summer merrily.
+Merrily, merrily shall I live now
+Under the Blossom that hangs on the Bough.
+SYCORAX
+I’le to Sea with thee, and keep thee warm in thy Cabin.
+TRINCALO
+No my dainty Dy-dapper, you have a tender constitution, and will be sick
+a Ship-board. You are partly Fish and may swim after me. I wish you a good
+Voyage.
+PROSPERO
+Now to this Royal Company, my servant, be visible,
+And entertain them with a Dance before they part.
+ARIEL
+I have a gentle Spirit for my Love,
+Who twice seven years hath waited for my Freedom,
+It shall appear and foot it featly with me.
+Milcha, my Love, thy Ariel calls thee.
+MILCHA
+Here!
+PROSPERO
+Henceforth this Isle to the afflicted be
+
+[Enter Milcha.
+
+[They dance a Saraband.
+
+128
+
+Dryden and Davenant
+
+The Tempest
+
+A place of Refuge as it was to me;
+[350] The Promises of blooming Spring live here,
+And all the Blessings of the rip’ning year;
+On my retreat let Heaven and Nature smile,
+And ever flourish the Enchanted Isle.
+
+Epilogue.
+
+[Exeunt.
+
+Gallants, by all good signs it does appear,
+That Sixty Seven’s a very damning year,
+For Knaves abroad, and for ill Poets here.
+Among the Muses there’s a gen’ral rot,
+The Rhyming Mounsieur and the Spanish Plot:
+Defic or Court, all’s one, they go to Pot.
+The Ghosts of Poets walk within this place,
+And haunt us Actors wheresoe’re we pass,
+In Visions bloodier than King Richard’s was.
+For this poor wretch he has not much to say,
+But quietly brings in his part o’th’ Play,
+And begs the favour to be damn’d to day.
+He sends me only like a Sh’riffs man here
+To let you know the Malefactor’s neer;
+And that he means to dye, en Cavalier.
+For if you shou’d be gracious to his Pen,
+Th’ Example will prove ill to other men,
+And you’ll be troubled with ’em all agen.
+FINIS.
+
+129
+
+
