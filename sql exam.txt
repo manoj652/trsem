@@ -1,0 +1,141 @@
+
+/*1.account relation*/
+create table accountrelation
+(branch_name char(255) primary key,
+acoount_number char(255) not null,
+balance int);
+select * from accountrelation;
+insert into accountrelation
+values('Downtown','A-101',500);
+insert into accountrelation
+values('mianus','A-215',700);
+insert into accountrelation
+values('perryridge','A-102',400);
+insert into accountrelation
+values('Roundhill','A-305',350);
+insert into accountrelation
+values('Brighton','A-201',800000);
+insert into accountrelation
+values('Redwood','A-222',350);
+insert into accountrelation
+values('Brighton','A-217',750);
+select * from accountrelation;
+
+/*2.branch relation*/
+create table branches
+(branch_name char(255) primary key,
+branch_city char(255) not null,
+amount int);
+select * from branches;
+insert into branches
+values('Downtown','Brooklyn',900000);
+insert into branches
+values('Redwood','Palo Alto',210000);
+insert into branches
+values('Downtown','Brooklyn',900000);
+insert into branches
+values('Perryridge','Horseneck',400000);
+insert into branches
+values('Mainus','Horseneck',800000);
+insert into branches
+values('Roundhill','Horseneck',300000);
+select * from branches;
+
+
+/*3.customer relation*/
+create table customer
+(customer_name char(255),
+customer_street char(255),
+customer_city char(255));
+select * from customer;
+insert into customer
+values('Jones','Main','Harrison');
+insert into customer
+values('Smith','North','Rye');
+insert into customer
+values('Hayes','Main','Harrison');
+insert into customer
+values('Curry','North','Pittfield');
+select * from customer;
+/* 3.alter*/
+
+alter table customer add phonenumber char(255);
+/*4.drop */
+
+alter table customer drop column phonenumber;
+select * from customer;
+
+create table accounts
+(loan_number char(255),
+branch_name char(255),
+amount int);
+insert into accounts
+values ('A_9732','Perryridge',1200);
+select * from accounts;
+
+/*4.loan relation*/
+create table loan
+(loan_number char(255),
+branch_name char(255),
+amount int);
+insert into loan
+values ('L-17','Downtown',1000);
+insert into loan
+values ('L-23','Redwood',2000);
+insert into loan
+values ('L-17','Downtown',1000);
+insert into loan
+values ('L-15','Perryridge',1500);
+insert into loan
+values ('L-17','Perryridge',1200);
+insert into loan
+values ('L-11','Roundhill',1200);
+/*6.do not remove duplicate*/
+
+/*7.display all*/
+select * from loan;
+/*5. remove duplicates */
+select distinct * from loan;
+/*9.loans over 1200*/
+select * from loan where amount >1200;
+/*10 loan numbers for each greater than */
+select loan_number from loan where amount >1200;
+/*8.all loans over 1200*/
+select loan_number,amount*100 from loan;
+
+
+
+/*5.depositor relation*/
+create table depositorrelation
+(customer_name char(255),
+accoun_number char(255));
+insert into depositorrelation
+values ('jones','A-101');
+insert into depositorrelation
+values ('smith','A-215');
+insert into depositorrelation
+values ('hayes','A-102');
+insert into depositorrelation
+values ('turner','A-305');
+insert into depositorrelation
+values ('johnson','A-201');
+insert into depositorrelation
+values ('jones','A-217');
+insert into depositorrelation
+values ('lindsay','A-222');
+
+/*6.borrower relation*/
+create table borowers
+(customer_name char(255),
+loan_number char(255));
+insert into borowers
+values('Jones','L-17;');
+insert into borowers
+values('Smith','L-23;');
+insert into borowers
+values('Harey','L-15;');
+insert into borowers
+values('Jackson','L-14;');
+select * from borowers;
+/*11.cartesian product */
+select *from borowers,loan;
